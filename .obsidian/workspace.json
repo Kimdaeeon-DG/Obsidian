@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언.md",
+                "file": "옵시디언 기본/옵시디언.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 적응기.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 적응기.md",
+                "file": "옵시디언 기본/옵시디언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 적응기.md",
+                "file": "옵시디언 기본/옵시디언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 적응기.md"
+                "file": "옵시디언 기본/옵시디언.md"
               }
             }
           }
@@ -160,11 +158,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "309fed6079689ba1",
+  "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "옵시디언.md",
-    "옵시디언 적응기.md",
     "무제 파일.md",
+    "옵시디언 기본/옵시디언.md",
+    "옵시디언 기본",
+    "옵시디언 기본/옵시디언 적응기.md",
     "Obsidian-1.6.3.AppImage"
   ]
 }
