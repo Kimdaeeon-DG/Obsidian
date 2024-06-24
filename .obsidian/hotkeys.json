@@ -40,5 +40,14 @@
       ],
       "key": "U"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
   ]
 }
