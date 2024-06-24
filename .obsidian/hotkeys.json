@@ -85,5 +85,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
