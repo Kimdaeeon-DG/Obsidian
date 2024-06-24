@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md"
+                "file": "옵시디언 기본/옵시디언 적응기.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "ed67ff559f7763f1",
   "lastOpenFiles": [
-    "옵시디언 기본/옵시디언.md",
     "옵시디언 기본/옵시디언 플러그인.md",
+    "옵시디언 기본/옵시디언.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
