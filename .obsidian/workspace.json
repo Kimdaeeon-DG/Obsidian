@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md"
+                "file": "born2beroot/born2beroot 평가지.md"
               }
             }
           }
@@ -197,11 +197,12 @@
   },
   "active": "3beaf2f0948d9930",
   "lastOpenFiles": [
-    "born2beroot 평가지.md",
-    "옵시디언 기본/옵시디언.md",
-    "옵시디언 기본/옵시디언 적응기.md",
-    "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/born2beroot.md",
+    "born2beroot/born2beroot 평가지.md",
+    "옵시디언 기본/옵시디언.md",
+    "옵시디언 기본/옵시디언 플러그인.md",
+    "무제 파일.md",
+    "옵시디언 기본/옵시디언 적응기.md",
     "무제 파일 1.md",
     "무제 파일 2.md",
     "born2beroot",
