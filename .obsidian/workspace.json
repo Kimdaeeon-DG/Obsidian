@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "옵시디언 기본/옵시디언 플러그인.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "프로젝트.md",
-    "born2beroot/born2beroot 평가지.md",
     "born2beroot/born2beroot.md",
+    "born2beroot/born2beroot 평가지.md",
+    "프로젝트.md",
     "().md",
     "프로젝트 개요.md",
     "가상 머신은 어떻게 동작하는가..md",
