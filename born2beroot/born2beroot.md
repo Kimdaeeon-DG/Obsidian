@@ -7,4 +7,4 @@
 >근데 보안을 위해 암호화를 함
 
 ### 비밀번호
-> myguest.virtualbox.org
+myguest.virtualbox.org
