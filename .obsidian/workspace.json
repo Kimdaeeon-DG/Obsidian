@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "가상머신.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "가상머신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "가상머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "가상머신.md"
               }
             }
           }
@@ -158,17 +159,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "4adffbeb3301826f",
   "lastOpenFiles": [
+    "Pasted image 20240627210157.png",
+    "born2beroot/born2beroot 평가지.md",
+    "born2beroot/en.subject ko.pdf",
+    "가상머신.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/born2beroot.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
-    "born2beroot/en.subject ko.pdf",
     "born2beroot/SSH.md",
     "born2beroot/APPArmer.md",
     "Pasted image 20240627204510.png",
-    "born2beroot/born2beroot 평가지.md",
-    "가상머신.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/UFW.md",
     "born2beroot/aptitude.md",
