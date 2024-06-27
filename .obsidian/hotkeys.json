@@ -103,5 +103,14 @@
       ],
       "key": "L"
     }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }
