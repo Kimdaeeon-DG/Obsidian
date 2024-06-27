@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "가상머신.md",
+                "file": "born2beroot/born2beroot 평가지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0b01f35f4b0f543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "centOS와 Debian의 차이점.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "가상머신.md",
+                "file": "centOS와 Debian의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "가상머신.md",
+                "file": "centOS와 Debian의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "가상머신.md"
+                "file": "centOS와 Debian의 차이점.md"
               }
             }
           }
@@ -159,12 +172,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4adffbeb3301826f",
+  "active": "e0b01f35f4b0f543",
   "lastOpenFiles": [
-    "Pasted image 20240627210157.png",
     "born2beroot/born2beroot 평가지.md",
-    "born2beroot/en.subject ko.pdf",
+    "centOS와 Debian의 차이점.md",
     "가상머신.md",
+    "Pasted image 20240627210157.png",
+    "born2beroot/en.subject ko.pdf",
     "born2beroot/en.subject.pdf",
     "born2beroot/born2beroot.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
