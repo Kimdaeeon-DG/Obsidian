@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "aptitude와 apt.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "aptitude와 apt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "aptitude와 apt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "aptitude와 apt.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "ad278a0ff62aabd8",
   "lastOpenFiles": [
     "born2beroot/born2beroot 평가지.md",
-    "무제 파일.md",
+    "aptitude와 apt.md",
     "born2beroot/SSH와 UFW.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/born2beroot.md",
