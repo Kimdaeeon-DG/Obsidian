@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ae4549ae716bdfa6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bd0f0e58a63e0a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
+                "file": "born2beroot/APPArmer.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/APPArmer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/APPArmer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/APPArmer.md"
               }
             }
           }
@@ -166,14 +148,15 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "born2beroot/aptitude.md",
     "born2beroot/born2beroot 평가지.md",
-    "born2beroot/그룹과  유저.md",
+    "born2beroot/APPArmer.md",
     "born2beroot/born2beroot.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
+    "born2beroot/aptitude.md",
     "born2beroot/SSH.md",
     "born2beroot/UFW.md",
     "무제 파일.md",
+    "born2beroot/그룹과  유저.md",
     "born2beroot/apt.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
