@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aptitude와 apt.md",
+                "file": "born2beroot/aptitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +45,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "f234324880df5e54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382e7006ded5aaea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aptitude와 apt.md",
+                "file": "apt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aptitude와 apt.md",
+                "file": "apt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aptitude와 apt.md"
+                "file": "apt.md"
               }
             }
           }
@@ -171,10 +189,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ad278a0ff62aabd8",
+  "active": "382e7006ded5aaea",
   "lastOpenFiles": [
+    "born2beroot/aptitude.md",
+    "apt.md",
     "born2beroot/born2beroot 평가지.md",
-    "aptitude와 apt.md",
     "born2beroot/SSH와 UFW.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/born2beroot.md",
