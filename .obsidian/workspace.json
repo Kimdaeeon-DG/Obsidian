@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "그룹과  유저.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"```bashgetent group user42    // user42그룹이 생성 됐는지 확인cat /etc/group | grep user42 // '/etc/group' 파일에서 직접 확인```\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "그룹과  유저.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "그룹과  유저.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "그룹과  유저.md"
+                "file": "born2beroot/born2beroot 평가지.md"
               }
             }
           }
@@ -159,11 +160,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0d2b79b7dd097e97",
+  "active": "08b3a3a8b40c2860",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "그룹과  유저.md",
+    "born2beroot/그룹과  유저.md",
     "born2beroot/born2beroot 평가지.md",
+    "무제 파일.md",
     "born2beroot/born2beroot.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본/옵시디언 플러그인.md",
