@@ -122,13 +122,22 @@
       "key": "J"
     }
   ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
   "editor:focus-right": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "K"
+      "key": "L"
     }
   ],
   "editor:focus-bottom": [
@@ -137,16 +146,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "L"
-    }
-  ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
+      "key": "K"
     }
   ]
 }
