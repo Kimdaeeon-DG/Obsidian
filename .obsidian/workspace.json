@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/aptitude.md",
+                "file": "born2beroot/apt.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/aptitude.md",
+                "file": "born2beroot/apt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/aptitude.md",
+                "file": "born2beroot/apt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/aptitude.md"
+                "file": "born2beroot/apt.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "d8d02e1f47b5e15a",
   "lastOpenFiles": [
-    "born2beroot/born2beroot 평가지.md",
     "born2beroot/aptitude.md",
+    "born2beroot/born2beroot 평가지.md",
     "born2beroot/SSH와 UFW.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/born2beroot.md",

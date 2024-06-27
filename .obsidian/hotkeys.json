@@ -95,16 +95,34 @@
       "key": "N"
     }
   ],
-  "editor:insert-wikilink": [
+  "editor:fold-more": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "L"
+      "key": "Enter"
     }
   ],
-  "editor:toggle-code": [
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:focus-right": [
     {
       "modifiers": [
         "Mod",
@@ -113,13 +131,22 @@
       "key": "K"
     }
   ],
-  "editor:fold-more": [
+  "editor:focus-bottom": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "Enter"
+      "key": "L"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
     }
   ]
 }
