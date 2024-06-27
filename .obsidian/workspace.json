@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4adffbeb3301826f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6563084afffb8e7a",
             "type": "leaf",
             "state": {
@@ -32,12 +20,12 @@
             }
           },
           {
-            "id": "0ed91e1d863781ce",
+            "id": "f2f7a5ea7d7ecec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비밀번호 정책.md",
+                "file": "centOS와 Debian의 차이점.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,21 +40,8 @@
                 "file": "born2beroot/en.subject ko.pdf"
               }
             }
-          },
-          {
-            "id": "5c47d05d7ed6b015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "가상머신.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +171,13 @@
   },
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
-    "호스트.md",
-    "born2beroot/born2beroot 평가지.md",
+    "centOS와 Debian의 차이점.md",
     "비밀번호 정책.md",
     "born2beroot/en.subject ko.pdf",
+    "born2beroot/born2beroot 평가지.md",
+    "LVM.md",
+    "호스트.md",
     "ㅏㅐ.md",
-    "centOS와 Debian의 차이점.md",
     "가상머신.md",
     "Pasted image 20240627210157.png",
     "born2beroot/en.subject.pdf",
