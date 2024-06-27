@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6563084afffb8e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "born2beroot/born2beroot 평가지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ed91e1d863781ce",
             "type": "leaf",
             "state": {
@@ -53,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +194,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4adffbeb3301826f",
+  "active": "6563084afffb8e7a",
   "lastOpenFiles": [
-    "비밀번호 정책.md",
+    "호스트.md",
     "born2beroot/born2beroot 평가지.md",
+    "비밀번호 정책.md",
     "born2beroot/en.subject ko.pdf",
     "ㅏㅐ.md",
     "centOS와 Debian의 차이점.md",
