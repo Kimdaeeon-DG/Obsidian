@@ -21,8 +21,8 @@ ufw status verbose
 	`sudo ufw delete 3`
 
 ###### 다양한 명령어
-`apt install ufw` ㅡ UFW 설치 여부 확인하고 없으면 설치.  
-`ufw **enable/disable**` ㅡ 방화벽의 활성화/비활성화.  
+>`apt install ufw` ㅡ UFW 설치 여부 확인하고 없으면 설치.  
+>`ufw **enable/disable**` ㅡ 방화벽의 활성화/비활성화.  
 `ufw **status verbose**` ㅡ 방화벽의 활성화 및 설정 상태 확인  
 `ufw **default deny**` ㅡ 모든 종류의 ( 입력 + 접속자 유형) 트래픽을 차단함. 필요한 포트만 열기 위함.  
 `ufw **allow** 4242` ㅡ 4242 포트를 통한 모든 종류의 접근을 허용함  
