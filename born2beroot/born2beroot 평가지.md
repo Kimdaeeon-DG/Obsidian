@@ -15,7 +15,7 @@
 ###### [[centOS와 Debian의 차이점]]들 (이 둘의 비교)
 ###### [[가상머신]] (가상머신을 쓰는 이유)
 ###### ~~만약 피평가자가 CentOS를 선택했을 경우 : SeLinux와 DNF가 무엇인가~~ -> 난 Debain 씀
-###### 만약 피평가자가 Debian을 선택했을 경우 : [[apt와 aptitude#^00620c|apt]]와 [[apt와 aptitude#^131623|aptitude]]를 설명하고 [[apt와 aptitude#apt와 aptitude의 차이점|차이점을 설명하시오]] / [[APPArmor]]이란 무엇인가 / 디팬스 동안에 스크립트가 10분마다 정보를 출력해야한다 (이 동작은 나중에 평가 중에 더 자세히 체크하게 될 것입니다)
+###### 만약 피평가자가 Debian을 선택했을 경우 : [[apt와 aptitude#^00620c|apt]]와 [[apt와 aptitude#^3f243d|aptitude]]를 설명하고 [[apt와 aptitude#apt와 aptitude의 차이점|차이점을 설명하시오]] / [[APPArmor]]이란 무엇인가 / 디팬스 동안에 스크립트가 10분마다 정보를 출력해야한다 (이 동작은 나중에 평가 중에 더 자세히 체크하게 될 것입니다)
 
 > 만일 피평가자의 설명이 명확하지 않다면, 여기서 평가를 중단하십시오.
 

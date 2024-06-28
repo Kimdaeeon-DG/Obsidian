@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/centOS와 Debian의 차이점.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/centOS와 Debian의 차이점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/centOS와 Debian의 차이점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/centOS와 Debian의 차이점.md"
               }
             }
           }
@@ -170,8 +171,12 @@
   },
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
-    "born2beroot/apt와 aptitude.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/LVM.md",
+    "born2beroot/호스트.md",
+    "born2beroot/가상머신.md",
+    "born2beroot/가상머신 구조.png",
+    "born2beroot/apt와 aptitude.md",
     "aptitude.md",
     "born2beroot/데몬.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
@@ -182,25 +187,20 @@
     "born2beroot/UFW.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/SSH.md",
-    "born2beroot/LVM.md",
     "born2beroot/APPArmor.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/호스트.md",
     "born2beroot/cron.md",
     "born2beroot/sudo.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/en.subject.pdf",
-    "born2beroot/가상머신.md",
     "born2beroot/born2beroot.md",
-    "born2beroot/가상머신 구조.png",
     "옵시디언 기본/옵시디언.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "Pasted image 20240627210157.png",
     "Pasted image 20240627204510.png",
     "ㅏㅐ.md",
-    "프로젝트.md",
     "born2beroot",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
