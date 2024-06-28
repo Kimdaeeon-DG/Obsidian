@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데몬.md",
+                "file": "born2beroot/데몬.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,15 +170,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5615202b297d49dc",
+  "active": "b7290802418aa587",
   "lastOpenFiles": [
-    "born2beroot/UFW.md",
     "born2beroot/born2beroot 평가지.md",
-    "cron.md",
-    "데몬.md",
-    "스크립트.md",
-    "sudo.md",
     "born2beroot/SSH.md",
+    "born2beroot/UFW.md",
+    "born2beroot/cron.md",
+    "born2beroot/데몬.md",
+    "born2beroot/스크립트.md",
+    "born2beroot/sudo.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/en.subject ko.pdf",
