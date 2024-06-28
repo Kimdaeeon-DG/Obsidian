@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "데몬.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5615202b297d49dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "born2beroot/born2beroot 평가지.md",
                 "mode": "source",
                 "source": false
@@ -65,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +206,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6563084afffb8e7a",
+  "active": "5615202b297d49dc",
   "lastOpenFiles": [
-    "born2beroot/SSH.md",
+    "cron.md",
+    "데몬.md",
+    "sudo.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/SSH.md",
     "born2beroot/UFW.md",
     "born2beroot/그룹과  유저.md",
-    "sudo.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/APPArmor.md",
@@ -224,7 +239,6 @@
     "프로젝트 개요.md",
     "가상 머신은 어떻게 동작하는가..md",
     "무제 파일 1.md",
-    "무제 파일 2.md",
     "born2beroot",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
