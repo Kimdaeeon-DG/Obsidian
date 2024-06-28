@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/en.subject ko.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/en.subject ko.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/en.subject ko.pdf"
               }
             }
           }
@@ -170,10 +170,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5615202b297d49dc",
+  "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
-    "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/그룹과  유저.md",
     "born2beroot/호스트.md",
