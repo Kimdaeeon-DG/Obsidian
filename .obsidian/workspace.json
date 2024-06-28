@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/UFW.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/UFW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/UFW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/UFW.md"
               }
             }
           }
@@ -172,13 +172,13 @@
   },
   "active": "5615202b297d49dc",
   "lastOpenFiles": [
-    "cron.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/UFW.md",
+    "cron.md",
     "데몬.md",
     "스크립트.md",
     "sudo.md",
     "born2beroot/SSH.md",
-    "born2beroot/UFW.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/en.subject ko.pdf",
