@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/aptitude와 apt 사이의 차이점.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/centOS와 Debian의 차이점.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/centOS와 Debian의 차이점.md",
+                "file": "born2beroot/APPArmer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/aptitude와 apt 사이의 차이점.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/aptitude와 apt 사이의 차이점.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/aptitude와 apt 사이의 차이점.md"
+                "file": "born2beroot/born2beroot 평가지.md"
               }
             }
           }
@@ -170,30 +171,30 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6563084afffb8e7a",
+  "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
-    "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/aptitude와 apt 사이의 차이점.md",
-    "born2beroot/aptitude.md",
-    "born2beroot/apt.md",
     "born2beroot/LVM.md",
-    "born2beroot/SSH.md",
     "born2beroot/born2beroot 평가지.md",
-    "born2beroot/en.subject ko.pdf",
+    "born2beroot/centOS와 Debian의 차이점.md",
+    "born2beroot/그룹과  유저.md",
+    "born2beroot/UFW.md",
+    "born2beroot/SSH.md",
+    "born2beroot/비밀번호 정책.md",
+    "born2beroot/호스트.md",
+    "born2beroot/APPArmer.md",
+    "born2beroot/apt.md",
+    "born2beroot/aptitude.md",
+    "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/born2beroot.md",
+    "born2beroot/en.subject ko.pdf",
     "born2beroot/가상머신 구조.png",
     "born2beroot/가상머신.md",
-    "born2beroot/UFW.md",
     "옵시디언 기본/옵시디언.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
-    "born2beroot/비밀번호 정책.md",
-    "born2beroot/호스트.md",
     "Pasted image 20240627210157.png",
     "Pasted image 20240627204510.png",
-    "born2beroot/그룹과  유저.md",
     "born2beroot/en.subject.pdf",
-    "born2beroot/APPArmer.md",
     "ㅏㅐ.md",
     "무제 파일.md",
     "프로젝트.md",
