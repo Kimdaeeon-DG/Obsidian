@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/비밀번호 정책.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/비밀번호 정책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/비밀번호 정책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/비밀번호 정책.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "e0b01f35f4b0f543",
   "lastOpenFiles": [
-    "born2beroot/aptitude.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/aptitude.md",
     "born2beroot/가상머신.md",
     "born2beroot/APPArmer.md",
     "born2beroot/그룹과  유저.md",
