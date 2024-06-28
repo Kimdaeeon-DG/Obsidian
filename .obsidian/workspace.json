@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/호스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/호스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/호스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/호스트.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "5615202b297d49dc",
   "lastOpenFiles": [
-    "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/aptitude.md",
     "born2beroot/apt.md",
     "born2beroot/그룹과  유저.md",
