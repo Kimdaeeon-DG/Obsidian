@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/데몬.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/aptitude.md",
+                "file": "born2beroot/apt와 aptitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/aptitude.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/aptitude.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/aptitude.md"
+                "file": "born2beroot/born2beroot 평가지.md"
               }
             }
           }
@@ -169,16 +168,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5615202b297d49dc",
+  "active": "6563084afffb8e7a",
   "lastOpenFiles": [
-    "born2beroot/apt.md",
-    "born2beroot/aptitude.md",
-    "born2beroot/aptitude와 apt 사이의 차이점.md",
+    "born2beroot/apt와 aptitude.md",
     "born2beroot/born2beroot 평가지.md",
-    "born2beroot/Monitoring 스크립트.md",
-    "포트포워딩.md",
-    "born2beroot/UFW.md",
+    "aptitude.md",
     "born2beroot/데몬.md",
+    "born2beroot/aptitude와 apt 사이의 차이점.md",
+    "born2beroot/aptitude.md",
+    "born2beroot/포트포워딩.md",
+    "무제 파일.md",
+    "born2beroot/Monitoring 스크립트.md",
+    "born2beroot/UFW.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/SSH.md",
     "born2beroot/LVM.md",
@@ -200,8 +201,6 @@
     "Pasted image 20240627204510.png",
     "ㅏㅐ.md",
     "프로젝트.md",
-    "().md",
-    "프로젝트 개요.md",
     "born2beroot",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
