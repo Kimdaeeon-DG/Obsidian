@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/en.subject ko.pdf",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/en.subject ko.pdf",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/en.subject ko.pdf"
+                "file": "born2beroot/born2beroot 평가지.md"
               }
             }
           }
@@ -170,9 +170,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f2f7a5ea7d7ecec6",
+  "active": "5615202b297d49dc",
   "lastOpenFiles": [
+    "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/en.subject ko.pdf",
     "born2beroot/그룹과  유저.md",
     "born2beroot/호스트.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
@@ -185,12 +187,10 @@
     "born2beroot/스크립트.md",
     "born2beroot/sudo.md",
     "born2beroot/비밀번호 정책.md",
-    "born2beroot/en.subject ko.pdf",
     "born2beroot/APPArmor.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/가상머신.md",
     "born2beroot/LVM.md",
-    "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/born2beroot.md",
     "born2beroot/가상머신 구조.png",
     "옵시디언 기본/옵시디언.md",
@@ -202,7 +202,6 @@
     "프로젝트.md",
     "().md",
     "프로젝트 개요.md",
-    "가상 머신은 어떻게 동작하는가..md",
     "born2beroot",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
