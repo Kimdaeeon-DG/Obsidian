@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/Monitoring 스크립트.md",
+                "file": "born2beroot/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/Monitoring 스크립트.md",
+                "file": "born2beroot/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/Monitoring 스크립트.md",
+                "file": "born2beroot/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/Monitoring 스크립트.md"
+                "file": "born2beroot/SSH.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/Monitoring 스크립트.md",
     "born2beroot/가상머신.md",
     "conflict-files-obsidian-git.md",
     "born2beroot/SSH.md",
@@ -189,7 +190,6 @@
     "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/aptitude.md",
     "무제 파일.md",
-    "born2beroot/Monitoring 스크립트.md",
     "born2beroot/APPArmor.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/cron.md",

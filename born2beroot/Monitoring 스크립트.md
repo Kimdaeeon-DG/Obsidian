@@ -12,18 +12,23 @@ vi /root/monitoring.sh
 
 printf "#Architecture: "
 uname -a
+// 시스템의 전체 정보 출력함. 커널 이름, 네트워크 호스트 이름, 커널 릴리스, 커널 버전, 머신 하드웨어 이름, 프로세서 유형, 하드웨어 플랫폼 및 운영 체제 이름
 
 printf "#CPU physical : "
 nproc --all
+// 시스템의 모든 가용 CPU 코어 수를 출력
 
 printf "#vCPU : "
 cat /proc/cpuinfo | grep processor | wc -l
 
 printf "#Memory Usage: "
 free -m | grep Mem | awk '{printf"%d/%dMB (%.2f%%)\n", $3, $2, $3/$2 * 100}'
-// fre
+// free -m 명령어는 메모리 사용량을 MB 단위로 출력
+
 printf "#Disk Usage: "
 df -a -BM | grep /dev/map | awk '{sum+=$3}END{print sum}' | tr -d '\n'
+// df -a -BM은 파일 시스템의 디스크 사용량을 MB 단위로 출력
+
 printf "/"
 df -a -BM | grep /dev/map | awk '{sum+=$4}END{print sum}' | tr -d '\n'
 printf "MB ("
