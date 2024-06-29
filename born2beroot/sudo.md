@@ -11,7 +11,7 @@ Defaults badpass_message="비밀번호 틀릴때 메세지"
 Defaults iolog_dir="/var/log/sudo/" 
 Defaults log_input 
 Defaults log_output 
-Defaults requiretty 
+defaults requiretty 
 Defaults passwd_tries=3
 ```
 
