@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/sudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/sudo.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
+    "born2beroot/born2beroot 평가지.md",
     "born2beroot/가상머신.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신 구조.png",
@@ -169,7 +170,6 @@
     "born2beroot/APPArmor.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/born2beroot.md",
-    "born2beroot/born2beroot 평가지.md",
     "프로젝트.md",
     "().md",
     "프로젝트 개요.md",
