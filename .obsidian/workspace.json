@@ -11,11 +11,9 @@
             "id": "6563084afffb8e7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "born2beroot/centOS와 Debian의 차이점.md",
-                "mode": "source",
-                "source": false
+                "file": "born2beroot/en.subject.pdf"
               }
             }
           },
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/centOS와 Debian의 차이점.md",
+                "file": "born2beroot/en.subject.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/centOS와 Debian의 차이점.md",
+                "file": "born2beroot/en.subject.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/centOS와 Debian의 차이점.md"
+                "file": "born2beroot/en.subject.pdf"
               }
             }
           }
@@ -173,6 +171,7 @@
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/APPArmor.md",
     "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/LVM.md",
     "born2beroot/SSH.md",
@@ -191,7 +190,6 @@
     "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/aptitude.md",
     "무제 파일.md",
-    "born2beroot/APPArmor.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/cron.md",
     "born2beroot/sudo.md",
