@@ -1,3 +1,7 @@
+### 코드 설명
+> `wc -l` : 갯수를 셈
+> `tr -d \n` : 개행 문자 제거
+> `ip link show` : 네트워크 인터페이스 정보 출력
 ```bash
 apt-get -y install sysstat
 vi /root/monitoring.sh
