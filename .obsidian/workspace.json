@@ -49,11 +49,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "born2beroot/en.subject ko.pdf"
+                "file": "born2beroot/en.subject.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/en.subject.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md",
+                "file": "born2beroot/en.subject.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/born2beroot 평가지.md"
+                "file": "born2beroot/en.subject.pdf"
               }
             }
           }
@@ -181,11 +182,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6563084afffb8e7a",
+  "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
-    "born2beroot/LVM.md",
-    "born2beroot/born2beroot 평가지.md",
+    "born2beroot/en.subject ko.pdf",
     "born2beroot/그룹과  유저.md",
+    "born2beroot/apt와 aptitude.md",
+    "born2beroot/born2beroot 평가지.md",
+    "born2beroot/LVM.md",
     "born2beroot/포트포워딩.md",
     "born2beroot/호스트.md",
     "born2beroot/born2beroot.md",
@@ -194,12 +197,10 @@
     "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/SSH.md",
     "born2beroot/UFW.md",
-    "born2beroot/apt와 aptitude.md",
     "born2beroot/가상머신.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/APPArmor.md",
     "conflict-files-obsidian-git.md",
-    "born2beroot/en.subject ko.pdf",
     "born2beroot/가상머신 구조.png",
     "aptitude.md",
     "born2beroot/데몬.md",
