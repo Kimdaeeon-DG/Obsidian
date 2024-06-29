@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/그룹과  유저.md",
+                "file": "born2beroot/호스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비밀번호",
+                "query": "host",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/그룹과  유저.md",
+                "file": "born2beroot/호스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/그룹과  유저.md",
+                "file": "born2beroot/호스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/그룹과  유저.md"
+                "file": "born2beroot/호스트.md"
               }
             }
           }
@@ -184,11 +183,11 @@
   },
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
+    "born2beroot/그룹과  유저.md",
     "born2beroot/born2beroot 평가지.md",
     "born2beroot/born2beroot.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/Monitoring 스크립트.md",
-    "born2beroot/그룹과  유저.md",
     "born2beroot/LVM.md",
     "born2beroot/호스트.md",
     "born2beroot/centOS와 Debian의 차이점.md",
