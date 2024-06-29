@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 기본/옵시디언 적응기.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 기본/옵시디언 적응기.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 기본/옵시디언 적응기.md",
+                "file": "born2beroot/born2beroot 평가지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 기본/옵시디언 적응기.md"
+                "file": "born2beroot/born2beroot 평가지.md"
               }
             }
           }
@@ -146,29 +146,29 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "4adffbeb3301826f",
   "lastOpenFiles": [
+    "born2beroot/가상머신.md",
+    "born2beroot/그룹과  유저.md",
+    "born2beroot/가상머신 구조.png",
+    "born2beroot/apt와 aptitude.md",
+    "born2beroot/UFW.md",
+    "born2beroot/cron.md",
+    "옵시디언 기본/옵시디언 적응기.md",
     "born2beroot/호스트.md",
     "born2beroot/포트포워딩.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/데몬.md",
-    "born2beroot/그룹과  유저.md",
-    "born2beroot/가상머신.md",
-    "born2beroot/가상머신 구조.png",
     "born2beroot/sudo.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
-    "born2beroot/cron.md",
     "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/apt와 aptitude.md",
-    "born2beroot/UFW.md",
     "born2beroot/SSH.md",
     "born2beroot/Monitoring 스크립트.md",
     "born2beroot/LVM.md",
     "born2beroot/APPArmor.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/born2beroot.md",
-    "옵시디언 기본/옵시디언 적응기.md",
     "born2beroot/born2beroot 평가지.md",
     "프로젝트.md",
     "().md",
@@ -176,7 +176,6 @@
     "가상 머신은 어떻게 동작하는가..md",
     "옵시디언 기본/옵시디언.md",
     "무제 파일.md",
-    "무제 파일 1.md",
     "born2beroot",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
