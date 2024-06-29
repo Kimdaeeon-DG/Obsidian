@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo",
+                "query": "visudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5615202b297d49dc",
+  "active": "08b3a3a8b40c2860",
   "lastOpenFiles": [
     "born2beroot/비밀번호 정책.md",
     "born2beroot/그룹과  유저.md",
