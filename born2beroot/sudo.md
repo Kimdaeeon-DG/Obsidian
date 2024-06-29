@@ -15,3 +15,6 @@ Defaults passwd_tries=3
 ```
 
 ###### tty
+>실제 터미널 사용자만 sudo 권한을 쓸 수 있음. 
+>포트포워딩 등으로 접근한 사용자는 sudo 권한 없음
+>최상위 항목인 tty 뒤로 pty, pts가 있음
