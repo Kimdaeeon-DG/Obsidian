@@ -8,8 +8,6 @@
 apt-get -y install sysstat
 vi /root/monitoring.sh
 
-아래 내용 그대로 입력. 틈틈히 저장하고 출력 확인하면서 만들 것.
-
 printf "#Architecture: "
 uname -a
 // 시스템의 전체 정보 출력함. 커널 이름, 네트워크 호스트 이름, 커널 릴리스, 커널 버전, 머신 하드웨어 이름, 프로세서 유형, 하드웨어 플랫폼 및 운영 체제 이름
