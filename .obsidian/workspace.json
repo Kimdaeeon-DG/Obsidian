@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/LVM.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "유저",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/LVM.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/LVM.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/LVM.md"
+                "file": "born2beroot/그룹과  유저.md"
               }
             }
           }
@@ -183,13 +184,13 @@
   },
   "active": "5615202b297d49dc",
   "lastOpenFiles": [
+    "born2beroot/LVM.md",
     "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/apt와 aptitude.md",
     "born2beroot/born2beroot 평가지.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/그룹과  유저.md",
-    "born2beroot/LVM.md",
     "born2beroot/포트포워딩.md",
     "born2beroot/호스트.md",
     "born2beroot/born2beroot.md",
