@@ -2,6 +2,8 @@
 > `wc -l` : 갯수를 셈
 > `tr -d \n` : 개행 문자 제거
 > `ip link show` : 네트워크 인터페이스 정보 출력
+
+
 ```bash
 apt-get -y install sysstat
 vi /root/monitoring.sh
@@ -40,17 +42,29 @@ if [ "$(lsblk | grep lvm | wc -l)" -gt 0 ] ; then printf "yes\n" ; else printf "
 printf "#Connections TCP : "
 ss | grep -i tcp | wc -l | tr -d '\n'
 printf " ESTABLISHED\n"
+// 소켓 통계 
 
 printf "#User log: "
 who | wc -l
+// 현재 로그인한 사용자를 출력
 
 printf "#Network: IP "
 hostname -I | tr -d '\n'
+// 시스템의 IP주소 출력
+
 printf "("
 ip link show | awk '$1 == "link/ether" {print $2}' | sed '2, $d' | tr -d '\n'
 printf ")\n"
+// 네트워크 인터페이스 정보 출력
+// MAC주소 추출
+// 두 번째 이후의 모든 라인 삭제
+// 개행 삭제
+
 
 printf "#Sudo : "
 journalctl _COMM=sudo | wc -l | tr -d '\n'
 printf " cmd\n"
+// sudo 명령어의 로그 출력
+// 횟수 세기
+// 개행 문자 제거
 ```
