@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/그룹과  유저.md",
+                "file": "born2beroot/sudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "visudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "born2beroot/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "born2beroot/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "born2beroot/sudo.md"
+              }
             }
           }
         ]
@@ -180,11 +184,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5615202b297d49dc",
+  "active": "f744ceeb7c20514a",
   "lastOpenFiles": [
+    "born2beroot/그룹과  유저.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/sudo.md",
-    "born2beroot/그룹과  유저.md",
     "born2beroot/LVM.md",
     "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/apt와 aptitude.md",
