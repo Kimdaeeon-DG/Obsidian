@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,10 +183,10 @@
   },
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
-    "born2beroot/born2beroot 평가지.md",
     "born2beroot/포트포워딩.md",
-    "born2beroot/호스트.md",
     "born2beroot/그룹과  유저.md",
+    "born2beroot/born2beroot 평가지.md",
+    "born2beroot/호스트.md",
     "born2beroot/born2beroot.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/Monitoring 스크립트.md",
