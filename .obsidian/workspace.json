@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md",
+                "file": "born2beroot/sudo.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비밀번호",
+                "query": "sudo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md",
+                "file": "born2beroot/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md",
+                "file": "born2beroot/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md"
+                "file": "born2beroot/sudo.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "5615202b297d49dc",
   "lastOpenFiles": [
+    "born2beroot/비밀번호 정책.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/LVM.md",
     "born2beroot/centOS와 Debian의 차이점.md",
@@ -194,7 +195,6 @@
     "born2beroot/포트포워딩.md",
     "born2beroot/호스트.md",
     "born2beroot/born2beroot.md",
-    "born2beroot/비밀번호 정책.md",
     "born2beroot/Monitoring 스크립트.md",
     "born2beroot/SSH.md",
     "born2beroot/UFW.md",
