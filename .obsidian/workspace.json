@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/포트포워딩.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "포트포워딩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/포트포워딩.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/포트포워딩.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/포트포워딩.md"
+                "file": "born2beroot/그룹과  유저.md"
               }
             }
           }
@@ -184,6 +185,7 @@
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
     "born2beroot/born2beroot 평가지.md",
+    "born2beroot/포트포워딩.md",
     "born2beroot/호스트.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/born2beroot.md",
@@ -198,7 +200,6 @@
     "born2beroot/en.subject.pdf",
     "born2beroot/APPArmor.md",
     "conflict-files-obsidian-git.md",
-    "born2beroot/포트포워딩.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/가상머신 구조.png",
     "aptitude.md",
