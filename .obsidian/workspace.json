@@ -35,13 +35,16 @@
             "id": "f2f7a5ea7d7ecec6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "born2beroot/en.subject.pdf"
+                "file": "born2beroot/그룹과  유저.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "유저",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3c2db1c73f5d8114",
@@ -121,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/apt와 aptitude.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/apt와 aptitude.md",
+                "file": "born2beroot/그룹과  유저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/apt와 aptitude.md"
+                "file": "born2beroot/그룹과  유저.md"
               }
             }
           }
@@ -182,8 +186,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6563084afffb8e7a",
+  "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
+    "born2beroot/en.subject.pdf",
+    "born2beroot/apt와 aptitude.md",
     "born2beroot/가상머신.md",
     "born2beroot/가상머신 구조.png",
     "born2beroot/비밀번호 정책.md",
@@ -197,10 +203,8 @@
     "born2beroot/그룹과  유저.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/born2beroot 평가지.md",
-    "born2beroot/en.subject.pdf",
     "born2beroot/LVM.md",
     "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/apt와 aptitude.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/호스트.md",
     "born2beroot/born2beroot.md",
