@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/APPArmor.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/APPArmor.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/APPArmor.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/APPArmor.md"
+                "file": "옵시디언 기본/옵시디언 적응기.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "6563084afffb8e7a",
   "lastOpenFiles": [
+    "born2beroot/APPArmor.md",
     "born2beroot/UFW.md",
     "born2beroot/sudo.md",
     "born2beroot/SSH.md",
@@ -203,7 +204,6 @@
     "born2beroot/born2beroot.md",
     "born2beroot/Monitoring 스크립트.md",
     "born2beroot/가상머신.md",
-    "born2beroot/APPArmor.md",
     "conflict-files-obsidian-git.md",
     "born2beroot/가상머신 구조.png",
     "aptitude.md",
