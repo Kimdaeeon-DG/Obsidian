@@ -35,9 +35,11 @@
             "id": "f2f7a5ea7d7ecec6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "born2beroot/en.subject.pdf"
+                "file": "born2beroot/sudo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유저",
+                "query": "tty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/en.subject.pdf",
+                "file": "born2beroot/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/en.subject.pdf",
+                "file": "born2beroot/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/en.subject.pdf"
+                "file": "born2beroot/sudo.md"
               }
             }
           }
@@ -187,8 +188,8 @@
   },
   "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
-    "born2beroot/그룹과  유저.md",
     "born2beroot/en.subject.pdf",
+    "born2beroot/그룹과  유저.md",
     "born2beroot/apt와 aptitude.md",
     "born2beroot/가상머신.md",
     "born2beroot/가상머신 구조.png",
