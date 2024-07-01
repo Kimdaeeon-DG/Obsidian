@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap 기본 명령어.md",
+                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap 기본 명령어.md",
+                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap 기본 명령어.md",
+                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap 기본 명령어.md"
+                "file": "Push_swap/Push_swap 기본 명령어.md"
               }
             }
           }
@@ -188,7 +188,7 @@
   "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
     "Push_swap/en.subject (1).pdf",
-    "Push_swap 기본 명령어.md",
+    "Push_swap/Push_swap 기본 명령어.md",
     "born2beroot/sudo.md",
     "Push_swap",
     "born2beroot/en.subject.pdf",
