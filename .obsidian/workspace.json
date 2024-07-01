@@ -35,16 +35,32 @@
             "id": "f2f7a5ea7d7ecec6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "born2beroot/sudo.md",
-                "mode": "source",
-                "source": false
+                "file": "Push_swap/en.subject (1).pdf"
               }
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "108238dde1a3c76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2729e9cbe91d50a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +89,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tty",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -90,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3c2db1c73f5d8114",
@@ -125,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/sudo.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/sudo.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/sudo.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -186,8 +201,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f2f7a5ea7d7ecec6",
+  "active": "2729e9cbe91d50a5",
   "lastOpenFiles": [
+    "Push_swap/en.subject (1).pdf",
+    "무제 파일.md",
+    "born2beroot/sudo.md",
+    "Push_swap",
     "born2beroot/en.subject.pdf",
     "born2beroot/그룹과  유저.md",
     "born2beroot/apt와 aptitude.md",
@@ -199,7 +218,6 @@
     "옵시디언 기본/옵시디언 적응기.md",
     "born2beroot/APPArmor.md",
     "born2beroot/UFW.md",
-    "born2beroot/sudo.md",
     "born2beroot/SSH.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/born2beroot 평가지.md",
@@ -213,7 +231,6 @@
     "aptitude.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/aptitude.md",
-    "무제 파일.md",
     "born2beroot/cron.md",
     "옵시디언 기본/옵시디언.md",
     "Pasted image 20240627210157.png",
