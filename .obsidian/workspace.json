@@ -35,9 +35,11 @@
             "id": "f2f7a5ea7d7ecec6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Push_swap/en.subject (1).pdf"
+                "file": "Push_swap/Push_swap 기본 명령어.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/en.subject (1).pdf",
+                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/en.subject (1).pdf",
+                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/en.subject (1).pdf"
+                "file": "Push_swap/Push_swap 기본 명령어.md"
               }
             }
           }
@@ -185,13 +187,17 @@
   },
   "active": "f2f7a5ea7d7ecec6",
   "lastOpenFiles": [
-    "Push_swap/Push_swap 기본 명령어.md",
+    "born2beroot/Monitoring 스크립트.md",
+    "born2beroot/centOS와 Debian의 차이점.md",
+    "born2beroot/apt와 aptitude.md",
+    "born2beroot/born2beroot 평가지.md",
+    "born2beroot/cron.md",
     "Push_swap/en.subject (1).pdf",
+    "Push_swap/Push_swap 기본 명령어.md",
     "born2beroot/sudo.md",
     "Push_swap",
     "born2beroot/en.subject.pdf",
     "born2beroot/그룹과  유저.md",
-    "born2beroot/apt와 aptitude.md",
     "born2beroot/가상머신.md",
     "born2beroot/가상머신 구조.png",
     "born2beroot/비밀번호 정책.md",
@@ -202,18 +208,14 @@
     "born2beroot/UFW.md",
     "born2beroot/SSH.md",
     "옵시디언 기본/옵시디언 플러그인.md",
-    "born2beroot/born2beroot 평가지.md",
     "born2beroot/LVM.md",
-    "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/en.subject ko.pdf",
     "born2beroot/호스트.md",
     "born2beroot/born2beroot.md",
-    "born2beroot/Monitoring 스크립트.md",
     "conflict-files-obsidian-git.md",
     "aptitude.md",
     "born2beroot/aptitude와 apt 사이의 차이점.md",
     "born2beroot/aptitude.md",
-    "born2beroot/cron.md",
     "옵시디언 기본/옵시디언.md",
     "Pasted image 20240627210157.png",
     "Pasted image 20240627204510.png",
