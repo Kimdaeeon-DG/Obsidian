@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6563084afffb8e7a",
+            "id": "4adffbeb3301826f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/apt와 aptitude.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f744ceeb7c20514a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "born2beroot/sudo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8febcea97bd95282",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "born2beroot/Born2beroot 정리.md",
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +31,6 @@
       {
         "id": "97d21d6235cc3788",
         "type": "tabs",
-        "dimension": 58.15109343936382,
         "children": [
           {
             "id": "b7290802418aa587",
@@ -75,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -92,25 +66,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "3c2db1c73f5d8114",
-        "type": "tabs",
-        "dimension": 41.84890656063619,
-        "children": [
-          {
-            "id": "5615202b297d49dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -126,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "옵시디언 기본/옵시디언 적응기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "옵시디언 기본/옵시디언 적응기.md"
+              }
             }
           }
         ]
@@ -183,41 +147,39 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5615202b297d49dc",
+  "active": "4adffbeb3301826f",
   "lastOpenFiles": [
     "born2beroot/Born2beroot 정리.md",
-    "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/en.subject (1).pdf",
-    "born2beroot/Monitoring 스크립트.md",
-    "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/apt와 aptitude.md",
-    "born2beroot/born2beroot 평가지.md",
-    "born2beroot/cron.md",
-    "born2beroot/sudo.md",
+    "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap",
-    "born2beroot/en.subject.pdf",
-    "born2beroot/그룹과  유저.md",
+    "옵시디언 기본/옵시디언 플러그인.md",
+    "옵시디언 기본/옵시디언 적응기.md",
+    "옵시디언 기본/옵시디언.md",
+    "born2beroot/sudo.md",
+    "born2beroot/SSH.md",
+    "conflict-files-obsidian-git.md",
+    "born2beroot/born2beroot 평가지.md",
     "born2beroot/가상머신.md",
+    "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신 구조.png",
+    "born2beroot/apt와 aptitude.md",
+    "born2beroot/UFW.md",
+    "born2beroot/cron.md",
+    "born2beroot/호스트.md",
+    "born2beroot/포트포워딩.md",
     "born2beroot/비밀번호 정책.md",
     "born2beroot/데몬.md",
-    "born2beroot/포트포워딩.md",
-    "옵시디언 기본/옵시디언 적응기.md",
-    "born2beroot/APPArmor.md",
-    "born2beroot/UFW.md",
-    "born2beroot/SSH.md",
-    "옵시디언 기본/옵시디언 플러그인.md",
-    "born2beroot/LVM.md",
+    "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
-    "born2beroot/호스트.md",
+    "born2beroot/centOS와 Debian의 차이점.md",
+    "born2beroot/Monitoring 스크립트.md",
+    "born2beroot/LVM.md",
+    "born2beroot/APPArmor.md",
     "born2beroot/born2beroot.md",
-    "conflict-files-obsidian-git.md",
-    "aptitude.md",
-    "born2beroot/aptitude와 apt 사이의 차이점.md",
-    "born2beroot/aptitude.md",
-    "옵시디언 기본/옵시디언.md",
-    "Pasted image 20240627210157.png",
-    "Pasted image 20240627204510.png",
+    "프로젝트.md",
+    "().md",
+    "프로젝트 개요.md",
     "born2beroot",
     "옵시디언 기본",
     "Obsidian-1.6.3.AppImage"
