@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f2f7a5ea7d7ecec6",
+            "id": "8febcea97bd95282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/Push_swap 기본 명령어.md",
+                "file": "born2beroot/Born2beroot 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,7 @@
       {
         "id": "97d21d6235cc3788",
         "type": "tabs",
+        "dimension": 58.15109343936382,
         "children": [
           {
             "id": "b7290802418aa587",
@@ -95,6 +96,7 @@
       {
         "id": "3c2db1c73f5d8114",
         "type": "tabs",
+        "dimension": 41.84890656063619,
         "children": [
           {
             "id": "5615202b297d49dc",
@@ -108,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -125,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/Push_swap 기본 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Push_swap/Push_swap 기본 명령어.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,10 +183,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f2f7a5ea7d7ecec6",
+  "active": "5615202b297d49dc",
   "lastOpenFiles": [
-    "Push_swap/en.subject (1).pdf",
+    "born2beroot/Born2beroot 정리.md",
     "Push_swap/Push_swap 기본 명령어.md",
+    "Push_swap/en.subject (1).pdf",
     "born2beroot/Monitoring 스크립트.md",
     "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/apt와 aptitude.md",
