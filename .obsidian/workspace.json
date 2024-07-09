@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -151,13 +150,13 @@
   "lastOpenFiles": [
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
+    "옵시디언 기본/옵시디언.md",
+    "born2beroot/sudo.md",
+    "born2beroot/SSH.md",
     "born2beroot/Born2beroot 정리.md",
     "Push_swap/en.subject (1).pdf",
     "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap",
-    "옵시디언 기본/옵시디언.md",
-    "born2beroot/sudo.md",
-    "born2beroot/SSH.md",
     "conflict-files-obsidian-git.md",
     "born2beroot/born2beroot 평가지.md",
     "born2beroot/가상머신.md",
