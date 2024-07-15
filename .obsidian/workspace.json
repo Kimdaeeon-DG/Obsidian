@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md",
+                "file": "Push_swap/에러처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md",
+                "file": "Push_swap/에러처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md",
+                "file": "Push_swap/에러처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md"
+                "file": "Push_swap/에러처리.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "Push_swap/에러처리.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/에러처리.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/en.subject (1).pdf",
     "born2beroot/가상머신.md",
