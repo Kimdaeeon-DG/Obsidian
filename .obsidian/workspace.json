@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md",
+                "file": "Push_swap/push_swap 설계 단계.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md",
+                "file": "Push_swap/push_swap 설계 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md",
+                "file": "Push_swap/push_swap 설계 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/파일 디스크립터 (File Descriptors).md"
+                "file": "Push_swap/push_swap 설계 단계.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "7497c9f5dc84131e",
   "lastOpenFiles": [
+    "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/에러처리.md",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/libft에서 참조할 함수.md",
@@ -181,7 +182,6 @@
     "born2beroot/포트포워딩.md",
     "born2beroot/centOS와 Debian의 차이점.md",
     "born2beroot/SSH.md",
-    "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/en.subject (1).pdf",
     "born2beroot/가상머신.md",
     "옵시디언 기본/옵시디언.md",
