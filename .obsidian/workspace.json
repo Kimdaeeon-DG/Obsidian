@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "push_swap 설계 단계.md",
+                "file": "Push_swap/에러처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "push_swap 설계 단계.md",
+                "file": "Push_swap/에러처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "push_swap 설계 단계.md",
+                "file": "Push_swap/에러처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "push_swap 설계 단계.md"
+                "file": "Push_swap/에러처리.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "7497c9f5dc84131e",
   "lastOpenFiles": [
+    "Push_swap/push_swap 설계 단계.md",
     "Push_swap/에러처리.md",
-    "push_swap 설계 단계.md",
     "Push_swap/libft에서 참조할 함수.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "born2beroot/born2beroot 평가지.md",
