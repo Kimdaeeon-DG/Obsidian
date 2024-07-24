@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
+                "file": "born2beroot/호스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hostnamectl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
+                "file": "born2beroot/호스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
+                "file": "born2beroot/호스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md"
+                "file": "born2beroot/호스트.md"
               }
             }
           }
@@ -172,6 +173,8 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
+    "born2beroot/Born2beroot 정리.md",
+    "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/에러처리.md",
     "conflict-files-obsidian-git.md",
@@ -179,10 +182,8 @@
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본/옵시디언.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
-    "Push_swap/push_swap 설계 단계.md",
     "Push_swap/libft에서 참조할 함수.md",
     "born2beroot/born2beroot.md",
-    "born2beroot/Born2beroot 정리.md",
     "born2beroot/born2beroot 평가지.md",
     "born2beroot/포트포워딩.md",
     "born2beroot/centOS와 Debian의 차이점.md",
