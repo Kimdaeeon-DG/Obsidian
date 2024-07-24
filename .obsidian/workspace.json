@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md",
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md",
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md",
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "born2beroot/비밀번호 정책.md"
+                "file": "옵시디언 기본/옵시디언 플러그인.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
+    "born2beroot/비밀번호 정책.md",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "born2beroot/가상머신.md",
@@ -171,7 +172,6 @@
     "born2beroot/cron.md",
     "born2beroot/호스트.md",
     "born2beroot/포트포워딩.md",
-    "born2beroot/비밀번호 정책.md",
     "born2beroot/데몬.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
