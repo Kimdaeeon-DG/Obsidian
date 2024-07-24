@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
+                "file": "born2beroot/비밀번호 정책.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.00260543823242
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
+                "file": "born2beroot/비밀번호 정책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
+                "file": "born2beroot/비밀번호 정책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/push_swap 설계 단계.md"
+                "file": "born2beroot/비밀번호 정책.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/push_swap 설계 단계.md",
+    "Push_swap/Push_swap 기본 명령어.md",
     "born2beroot/가상머신.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/에러처리.md",
