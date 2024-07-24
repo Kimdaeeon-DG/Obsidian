@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hostnamectl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4adffbeb3301826f",
+  "active": "b7290802418aa587",
   "lastOpenFiles": [
     "born2beroot/Born2beroot 정리.md",
     "Push_swap/push_swap 설계 단계.md",
