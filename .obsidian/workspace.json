@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/에러처리.md",
+                "file": "Push_swap/push_swap 설계 단계.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/에러처리.md",
+                "file": "Push_swap/push_swap 설계 단계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/에러처리.md",
+                "file": "Push_swap/push_swap 설계 단계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/에러처리.md"
+                "file": "Push_swap/push_swap 설계 단계.md"
               }
             }
           }
