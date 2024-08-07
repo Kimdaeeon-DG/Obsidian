@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "시험웹사이트/사이트 구성.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "시험웹사이트/사이트 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "file": "시험웹사이트/사이트 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md"
+                "file": "시험웹사이트/사이트 구성.md"
               }
             }
           }
@@ -146,9 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "무제 폴더",
+    "옵시디언 기본/옵시디언 플러그인.md",
+    "시험웹사이트/사이트 구성.md",
+    "시험웹사이트",
     "born2beroot/비밀번호 정책.md",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 기본 명령어.md",
@@ -158,7 +160,6 @@
     "Push_swap/libft에서 참조할 함수.md",
     "born2beroot/born2beroot 평가지.md",
     "옵시디언 기본/옵시디언.md",
-    "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "Push_swap/en.subject (1).pdf",
     "born2beroot/sudo.md",
