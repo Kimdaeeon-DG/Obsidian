@@ -13,37 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Push_swap/참고.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f172889a91134d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Push_swap/에러처리.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7497c9f5dc84131e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Push_swap/push_swap 설계 단계.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4afc959703296934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "옵시디언 기본/옵시디언 플러그인.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.00260543823242
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -170,35 +159,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4adffbeb3301826f",
+  "active": "f172889a91134d71",
   "lastOpenFiles": [
-    "Push_swap/참고 자료.md",
+    "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/en.subject (1).pdf",
-    "Push_swap/push_swap 설계 단계.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/에러처리.md",
-    "옵시디언 기본/옵시디언.md",
-    "옵시디언 기본/옵시디언 적응기.md",
+    "평가표.md",
+    "Push_swap/참고.md",
+    "시험웹사이트/사이트 구성.md",
+    "conflict-files-obsidian-git.md",
     "옵시디언 기본/옵시디언 플러그인.md",
-    "born2beroot/그룹과  유저.md",
+    "시험웹사이트",
+    "born2beroot/비밀번호 정책.md",
     "born2beroot/가상머신.md",
     "born2beroot/born2beroot 평가지.md",
-    "born2beroot/호스트.md",
-    "born2beroot/Born2beroot 정리.md",
-    "conflict-files-obsidian-git.md",
-    "born2beroot/born2beroot.md",
-    "born2beroot/포트포워딩.md",
-    "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/SSH.md",
+    "옵시디언 기본/옵시디언.md",
+    "옵시디언 기본/옵시디언 적응기.md",
     "born2beroot/sudo.md",
+    "born2beroot/SSH.md",
+    "born2beroot/Born2beroot 정리.md",
     "Push_swap",
+    "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신 구조.png",
     "born2beroot/apt와 aptitude.md",
     "born2beroot/UFW.md",
     "born2beroot/cron.md",
-    "born2beroot/비밀번호 정책.md",
+    "born2beroot/호스트.md",
+    "born2beroot/포트포워딩.md",
     "born2beroot/데몬.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
