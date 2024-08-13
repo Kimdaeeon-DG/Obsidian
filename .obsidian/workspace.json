@@ -11,9 +11,11 @@
             "id": "4adffbeb3301826f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf"
+                "file": "Push_swap/참고.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf",
+                "file": "Push_swap/참고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf",
+                "file": "Push_swap/참고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf"
+                "file": "Push_swap/참고.md"
               }
             }
           }
@@ -170,14 +172,14 @@
   },
   "active": "4adffbeb3301826f",
   "lastOpenFiles": [
+    "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/en.subject (1).pdf",
     "Push_swap/에러처리.md",
     "Push_swap/참고.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
-    "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/Push_swap 기본 명령어.md",
-    "Push_swap/libft에서 참조할 함수.md",
     "시험웹사이트/사이트 구성.md",
     "시험웹사이트",
     "Push_swap/참고 자료.md",
