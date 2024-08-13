@@ -11,19 +11,9 @@
             "id": "4adffbeb3301826f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf"
-              }
-            }
-          },
-          {
-            "id": "9755931bb8be38ec",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Push_swap/참고.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Push_swap/참고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Push_swap/참고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Push_swap/참고.md"
               }
             }
           }
@@ -181,17 +170,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9755931bb8be38ec",
+  "active": "4adffbeb3301826f",
   "lastOpenFiles": [
-    "Push_swap/Push_swap 평가표.pdf",
     "무제 파일.md",
+    "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/en.subject (1).pdf",
     "Push_swap/에러처리.md",
     "Push_swap/참고.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/Push_swap 기본 명령어.md",
-    "Push_swap/libft에서 참조할 함수.md",
     "시험웹사이트/사이트 구성.md",
     "시험웹사이트",
     "Push_swap/참고 자료.md",
@@ -213,6 +202,7 @@
     "born2beroot/가상머신 구조.png",
     "born2beroot/apt와 aptitude.md",
     "born2beroot/UFW.md",
+    "born2beroot/cron.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
     "born2beroot",
