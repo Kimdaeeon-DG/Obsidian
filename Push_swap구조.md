@@ -41,4 +41,20 @@ sorted = copy_sorted(array, nums_len);
 if (nums_len >= 2)
 	sort2(array, sorted);
 ```
-#### 8. 
+#### 8. 길이가 3이상일 때 정렬
+```C
+else if (nums_len >= 3)
+{
+	// 덱 a를 만들어서 값을 넣음
+	make_deque_a(&a, array, sorted, nums_len);
+	if (nums_len >= 3 && nums_len <= 5)
+		sorted(nums_len, &a, &b); // 3~5 사이의 하드코딩 실행
+	else
+		algorithm(&a, &b, nums_len); // 알고리즘 실행
+}
+```
+#### 9. 프리 후 종료
+```C
+free_all(&a, &b, array, sorted);
+return (0);
+```
