@@ -45,9 +45,23 @@
             "id": "eb42487d6d27faa8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b83eed9f32c2e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rush01/rush01 ko.pdf",
+                "file": "rush01/러쉬 평가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rush01/rush01 ko.pdf",
+                "file": "rush01/러쉬 평가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "rush01/러쉬 평가.md"
               }
             }
           }
@@ -203,8 +217,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eb42487d6d27faa8",
+  "active": "5b83eed9f32c2e7f",
   "lastOpenFiles": [
+    "참고 사이트.md",
     "rush01/러쉬 평가.md",
     "rush01/rush01 ko.pdf",
     "rush01/rush01.pdf",
