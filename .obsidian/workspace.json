@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rush01/참고 사이트.md",
+                "file": "rush01/러쉬 평가.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rush01/참고 사이트.md",
+                "file": "rush01/러쉬 평가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rush01/참고 사이트.md",
+                "file": "rush01/러쉬 평가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rush01/참고 사이트.md"
+                "file": "rush01/러쉬 평가.md"
               }
             }
           }
@@ -219,8 +219,8 @@
   },
   "active": "5b83eed9f32c2e7f",
   "lastOpenFiles": [
-    "rush01/러쉬 평가.md",
     "rush01/참고 사이트.md",
+    "rush01/러쉬 평가.md",
     "rush01/rush01 ko.pdf",
     "rush01/rush01.pdf",
     "rush01",
