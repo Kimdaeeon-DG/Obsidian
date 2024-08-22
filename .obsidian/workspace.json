@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -203,7 +204,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "eb42487d6d27faa8",
+  "active": "b7290802418aa587",
   "lastOpenFiles": [
     "rush01/rush01.pdf",
     "rush01/rush01 ko.pdf",
