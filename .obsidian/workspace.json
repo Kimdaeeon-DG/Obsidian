@@ -45,9 +45,11 @@
             "id": "eb42487d6d27faa8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -126,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rush01/rush01 ko.pdf",
+                "file": "rush01/러쉬 평가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rush01/rush01 ko.pdf",
+                "file": "rush01/러쉬 평가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "rush01/러쉬 평가.md"
               }
             }
           }
@@ -204,10 +205,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "eb42487d6d27faa8",
   "lastOpenFiles": [
-    "rush01/rush01.pdf",
     "rush01/rush01 ko.pdf",
+    "rush01/rush01.pdf",
     "rush01/러쉬 평가.md",
     "rush01",
     "Push_swap구조.md",
@@ -241,7 +242,6 @@
     "born2beroot/apt와 aptitude.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
-    "born2beroot",
-    "옵시디언 기본"
+    "born2beroot"
   ]
 }
