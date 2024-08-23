@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap구조.md",
+                "file": "Push_swap/Push_swap구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,11 +57,9 @@
             "id": "5b83eed9f32c2e7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "rush01/러쉬 평가.md",
-                "mode": "source",
-                "source": false
+                "file": "rush01/rush01 ko.pdf"
               }
             }
           },
@@ -156,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rush01/러쉬 평가.md",
+                "file": "rush01/rush01 ko.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rush01/러쉬 평가.md",
+                "file": "rush01/rush01 ko.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rush01/러쉬 평가.md"
+                "file": "rush01/rush01 ko.pdf"
               }
             }
           }
@@ -220,11 +218,11 @@
   "active": "5b83eed9f32c2e7f",
   "lastOpenFiles": [
     "rush01/참고 사이트.md",
-    "rush01/러쉬 평가.md",
+    "Push_swap/Push_swap구조.md",
     "rush01/rush01 ko.pdf",
+    "rush01/러쉬 평가.md",
     "rush01/rush01.pdf",
     "rush01",
-    "Push_swap구조.md",
     "Push_swap/에러처리.md",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/push_swap 설계 단계.md",
@@ -252,7 +250,6 @@
     "born2beroot/sudo.md",
     "Push_swap",
     "born2beroot/가상머신 구조.png",
-    "born2beroot/apt와 aptitude.md",
     "born2beroot/en.subject.pdf",
     "born2beroot/en.subject ko.pdf",
     "born2beroot"
