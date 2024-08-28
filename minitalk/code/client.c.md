@@ -1,4 +1,4 @@
-```C h1:4-7 title:client
+```C error:10 h1:6-8 title:client
 #include "../minitalk.h"
 
 void	send_sig(unsigned char s, int server_pid)
