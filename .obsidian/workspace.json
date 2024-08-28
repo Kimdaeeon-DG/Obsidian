@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server.c.md",
+                "file": "Minitalk/server.c.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server.c.md",
+                "file": "Minitalk/server.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server.c.md",
+                "file": "Minitalk/server.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server.c.md"
+                "file": "Minitalk/server.c.md"
               }
             }
           }
@@ -254,7 +254,7 @@
   "active": "54129bf1fe6654d4",
   "lastOpenFiles": [
     "Minitalk/client.c.md",
-    "server.c.md",
+    "Minitalk/server.c.md",
     "Minitalk/en.subject ko.pdf",
     "Minitalk/Minitalk.md",
     "Minitalk/en.subject.pdf",
