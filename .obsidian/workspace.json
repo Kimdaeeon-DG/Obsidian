@@ -91,9 +91,11 @@
             "id": "54129bf1fe6654d4",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "server.c"
+                "file": "Minitalk/client.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -188,6 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Minitalk/client.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,6 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Minitalk/client.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minitlak.ts"
+                "file": "Minitalk/client.c.md"
               }
             }
           }
@@ -234,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,12 +251,12 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "54129bf1fe6654d4",
   "lastOpenFiles": [
-    "server.c",
-    "minitlak.ts",
     "Minitalk/server.c.md",
+    "Minitalk/server.c",
     "Minitalk/client.c.md",
+    "minitlak.ts",
     "Minitalk/en.subject ko.pdf",
     "Minitalk/Minitalk.md",
     "Minitalk/en.subject.pdf",
@@ -276,7 +279,6 @@
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본/옵시디언.md",
-    "시험웹사이트",
     "Push_swap/참고 자료.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신.md",

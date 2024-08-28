@@ -13,6 +13,13 @@ void	send_sig(unsigned char s, int server_pid)
 		else
 			kill(server_pid, SIGUSR2);
 		usleep(300);
+
+> [!NOTE]
+> > [!NOTE]
+
+> > [!NOTE] Title
+
+> Contents
 	}
 }
 

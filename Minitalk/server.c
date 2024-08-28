@@ -17,7 +17,7 @@ void	check_interupt(siginfo_t *info, pid_t *client_pid, int *counter)
 	if (info->si_pid != *client_pid)
 	{
 		*client_pid = info->si_pid;
-		*counter = 0;
+		*counter = 0; // 카운터를 0으로
 	}
 }
 
