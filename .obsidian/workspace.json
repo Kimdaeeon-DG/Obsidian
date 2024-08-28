@@ -13,11 +13,94 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "Push_swap/Push_swap 평가표.pdf"
+              }
+            }
+          },
+          {
+            "id": "9755931bb8be38ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Push_swap/에러처리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d969e1bcb6b58b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Push_swap/Push_swap구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb42487d6d27faa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b83eed9f32c2e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d4b1a7cc4ec7fe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Minitalk/en.subject ko.pdf"
+              }
+            }
+          },
+          {
+            "id": "7497c9f5dc84131e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Push_swap/push_swap 설계 단계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4afc959703296934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -83,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rush01/rush01 ko.pdf",
+                "file": "Minitalk/en.subject ko.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rush01/rush01 ko.pdf",
+                "file": "Minitalk/en.subject ko.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "Minitalk/en.subject ko.pdf"
               }
             }
           }
@@ -146,29 +229,30 @@
   },
   "active": "b7290802418aa587",
   "lastOpenFiles": [
-    "mini_talk",
-    "rush01/rush01.pdf",
-    "rush01/참고 사이트.md",
+    "Minitalk/Minitalk.md",
+    "Minitalk/en.subject ko.pdf",
+    "Minitalk/en.subject.pdf",
     "rush01/러쉬 평가.md",
-    "Push_swap/참고.md",
+    "Minitalk",
+    "rush01/rush01.pdf",
     "rush01/rush01 ko.pdf",
-    "rush01",
+    "rush01/참고 사이트.md",
     "Push_swap/Push_swap구조.md",
-    "Push_swap구조.md",
-    "무제 파일.md",
-    "Push_swap/libft에서 참조할 함수.md",
+    "rush01",
+    "Push_swap/에러처리.md",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/push_swap 설계 단계.md",
-    "Push_swap/en.subject (1).pdf",
-    "Push_swap/에러처리.md",
-    "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/Push_swap 기본 명령어.md",
+    "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/en.subject (1).pdf",
+    "Push_swap/파일 디스크립터 (File Descriptors).md",
+    "Push_swap/참고.md",
     "시험웹사이트/사이트 구성.md",
+    "옵시디언 기본/옵시디언 플러그인.md",
+    "옵시디언 기본/옵시디언 적응기.md",
+    "옵시디언 기본/옵시디언.md",
     "시험웹사이트",
     "Push_swap/참고 자료.md",
-    "옵시디언 기본/옵시디언.md",
-    "옵시디언 기본/옵시디언 적응기.md",
-    "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신.md",
     "born2beroot/born2beroot 평가지.md",
@@ -178,10 +262,8 @@
     "born2beroot/born2beroot.md",
     "born2beroot/포트포워딩.md",
     "born2beroot/centOS와 Debian의 차이점.md",
+    "born2beroot/SSH.md",
     "Push_swap",
-    "born2beroot/가상머신 구조.png",
-    "born2beroot/en.subject.pdf",
-    "born2beroot/en.subject ko.pdf",
-    "born2beroot"
+    "born2beroot/가상머신 구조.png"
   ]
 }
