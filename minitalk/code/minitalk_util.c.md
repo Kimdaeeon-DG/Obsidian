@@ -2,26 +2,23 @@
 #include "../minitalk.h"
 
 int	ft_atoi(const char *str)
-{
-	int	i;
-	int	sign;
-	int	final;
+{ 
+	int         sign;
+    long long   result;
 
-	i = 0;
-	sign = 1;
-	final = 0;
-	if (str[i] == '-' || str[i] == '+')
-	{
-		if (str[i] == '-')
-			sign *= -1;
-		i++;
-	}
-	while (str[i] >= '0' && str[i] <= '9')
-	{
-		final = final * 10 + str[i] - '0';
-		i++;
-	}
-	return (final * sign);
+    sign = 1;
+    result = 0;
+    if (*str == '-')
+        sign *= -1; 
+    if (*str == '-' || *str == '+')
+        str++;
+    while (*str >= '0' && *str <= '9')
+    {   
+        result = result * 10 + (*str - '0');
+        str++;
+    }   
+    result = result * sign;
+    return ((int)result);
 }
 
 void	ft_putchar(char c)
@@ -61,8 +58,6 @@ void	ft_putstr(char *s)
 
 int	ft_isdigit(int c)
 {
-	if (c >= 48 && c <= 57)
-		return (1);
-	return (0);
+	return (c >= '0' && c <= '9');
 }
 ```
