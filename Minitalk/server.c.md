@@ -1,4 +1,4 @@
-```C
+``C
 #include "../minitalk.h"
 
 void	check_interupt(siginfo_t *info, pid_t *client_pid, int *counter)
