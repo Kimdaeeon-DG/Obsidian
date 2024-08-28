@@ -17,4 +17,18 @@
 >	프로그램을 구동한다는 건 반드시 개별적인 프로세스가 동작하는 것과 같음
 >	해당 함수를 불러오는 시점에서 프로세스 아이디는 무조건 존재
 ##### sleep()
->`{C}unsigned int sele
+>`{C}unsigned int sleep(unsigned int seconds);
+
+>seconds 초만큼 스레드를 일시정지함 (대기 상태)
+> 만약 sleep 중간에 시그널이 발생하면 바로 복귀 후 남은 시간이 반환 됨
+> 만약 15초를 쉬는 중에 (seconds = 15) 5초만에 시그널이 발생하여 복귀하였을 경우, 리턴값은 10
+##### usleep()
+>`{C}int usleep(useconds_t microseconds);
+
+> microseconds 마이크로초만큼 스레드를 일시 정지함
+> 나머지는 sleep과 동일
+##### pause()
+>`{C}int pause(void);`
+
+>kill() 함수나 내부 타이머에 의해 시그널을 받기 전까지 현재 스레드를 잠시 일시정지 시킴
+>pause()를 통해 스레드가 일시정지된 상태에서 시그널 처리기 (signal handler)가 멈출 겨
