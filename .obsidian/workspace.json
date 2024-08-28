@@ -91,9 +91,11 @@
             "id": "54129bf1fe6654d4",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "minitalk/server.c"
+                "file": "minitalk/server.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minitalk/server.c",
+                "file": "minitalk/server.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minitalk/server.c",
+                "file": "minitalk/server.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minitalk/server.c"
+                "file": "minitalk/server.c.md"
               }
             }
           }
@@ -252,11 +254,11 @@
   },
   "active": "54129bf1fe6654d4",
   "lastOpenFiles": [
-    "minitalk/server.c.md",
     "minitalk/server.c",
+    "minitalk/server.c.md",
+    "minitalk/client.c.md",
     "minitalk/en.subject.pdf",
     "minitalk/en.subject ko.pdf",
-    "minitalk/client.c.md",
     "minitalk/Minitalk.md",
     "minitalk_utils.c",
     "server.c",
