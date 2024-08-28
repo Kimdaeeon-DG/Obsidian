@@ -71,7 +71,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Minitalk/en.subject ko.pdf"
+                "file": "minitalk/en.subject ko.pdf"
               }
             }
           },
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minitalk/client.c.md",
+                "file": "minitalk/client.c.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,11 +91,9 @@
             "id": "54129bf1fe6654d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "Minitalk/client.c.md",
-                "mode": "source",
-                "source": false
+                "file": "minitalk/server.c"
               }
             }
           },
@@ -174,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -190,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minitalk/client.c.md",
+                "file": "minitalk/server.c",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minitalk/client.c.md",
+                "file": "minitalk/server.c",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minitalk/client.c.md"
+                "file": "minitalk/server.c"
               }
             }
           }
@@ -238,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,26 +252,26 @@
   },
   "active": "54129bf1fe6654d4",
   "lastOpenFiles": [
-    "Minitalk/server.c.md",
-    "Minitalk/server.c",
-    "Minitalk/client.c.md",
+    "minitalk/server.c.md",
+    "minitalk/server.c",
+    "minitalk/en.subject.pdf",
+    "minitalk/en.subject ko.pdf",
+    "minitalk/client.c.md",
+    "minitalk/Minitalk.md",
+    "minitalk_utils.c",
+    "server.c",
+    "Makefile 2",
+    "minitalk.h",
+    "Makefile 1",
+    "Makefile",
     "minitlak.ts",
-    "Minitalk/en.subject ko.pdf",
-    "Minitalk/Minitalk.md",
-    "Minitalk/en.subject.pdf",
     "rush01/러쉬 평가.md",
-    "Minitalk",
-    "rush01/rush01.pdf",
-    "rush01/rush01 ko.pdf",
     "rush01/참고 사이트.md",
     "Push_swap/Push_swap구조.md",
-    "rush01",
     "Push_swap/에러처리.md",
-    "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/libft에서 참조할 함수.md",
-    "Push_swap/en.subject (1).pdf",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/참고.md",
     "시험웹사이트/사이트 구성.md",
