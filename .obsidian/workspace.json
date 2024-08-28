@@ -76,6 +76,30 @@
             }
           },
           {
+            "id": "9d552e234239f5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minitalk/client.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54129bf1fe6654d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "server.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7497c9f5dc84131e",
             "type": "leaf",
             "state": {
@@ -100,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minitalk/en.subject ko.pdf",
+                "file": "server.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minitalk/en.subject ko.pdf",
+                "file": "server.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minitalk/en.subject ko.pdf"
+                "file": "server.c.md"
               }
             }
           }
@@ -227,10 +251,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "54129bf1fe6654d4",
   "lastOpenFiles": [
-    "Minitalk/Minitalk.md",
+    "Minitalk/client.c.md",
+    "server.c.md",
     "Minitalk/en.subject ko.pdf",
+    "Minitalk/Minitalk.md",
     "Minitalk/en.subject.pdf",
     "rush01/러쉬 평가.md",
     "Minitalk",
@@ -262,7 +288,6 @@
     "born2beroot/born2beroot.md",
     "born2beroot/포트포워딩.md",
     "born2beroot/centOS와 Debian의 차이점.md",
-    "born2beroot/SSH.md",
     "Push_swap",
     "born2beroot/가상머신 구조.png"
   ]
