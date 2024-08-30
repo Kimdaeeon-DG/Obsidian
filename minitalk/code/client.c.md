@@ -6,7 +6,7 @@ void	send_sig(unsigned char s, int server_pid)
 	int	i;
 
 	i = 8;
-	while (--i >= 0)
+	while (--i >= 0) //비트
 	{
 		if (s & (1 << i))
 			kill(server_pid, SIGUSR1);
