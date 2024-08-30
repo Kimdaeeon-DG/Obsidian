@@ -5,12 +5,12 @@ void	send_sig(unsigned char s, int server_pid)
 {
 	int	i;
 
-	i = 8;
-	while (--i >= 0) // 비트가 8개 쌓였으면
+	i = 8; // 비트가 8개 쌓였으면
+	while (--i >= 0) // s의 비트를 가장 높은 위치(7)부터 검사
 	{
-		if (s & (1 << i)) // 1 전송
+		if (s & (1 << i)) // s의 i번째가 1인지 확인 
 			kill(server_pid, SIGUSR1);
-		else // 2 전송
+		else // 아니면 
 			kill(server_pid, SIGUSR2);
 		usleep(300); // 마이크로초
 	}
