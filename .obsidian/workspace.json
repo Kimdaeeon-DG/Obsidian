@@ -21,9 +21,11 @@
             "id": "83949f64e59635c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf"
+                "file": "minitalk/code/client.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf",
+                "file": "minitalk/code/client.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf",
+                "file": "minitalk/code/client.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/Push_swap 평가표.pdf"
+                "file": "minitalk/code/client.c.md"
               }
             }
           }
@@ -158,13 +160,14 @@
   },
   "active": "83949f64e59635c1",
   "lastOpenFiles": [
+    "minitalk/code/Makefile.md",
+    "minitalk/code/minitalk_util.c.md",
+    "minitalk/code/server.c.md",
+    "Push_swap/Push_swap 평가표.pdf",
     "학회장.md",
     "rush01/rush01 ko.pdf",
-    "minitalk/code/server.c.md",
-    "minitalk/code/minitalk_util.c.md",
     "minitalk/code/minitalk.h.md",
     "minitalk/code/client.c.md",
-    "minitalk/code/Makefile.md",
     "minitalk/minitalk 평가표 번역.pdf",
     "minitalk/minitalk 개념 정리.md",
     "minitalk/en.subject.pdf",
@@ -174,7 +177,6 @@
     "minitalk.h",
     "Makefile 2",
     "Makefile 1",
-    "Makefile",
     "rush01/참고 사이트.md",
     "rush01/러쉬 평가.md",
     "Push_swap/참고.md",
