@@ -3,10 +3,10 @@
 
 void	check_interupt(siginfo_t *info, pid_t *client_pid, int *counter)
 {   // 초기화 갱신
-	if (info->si_pid != *client_pid) 
+	if (info->si_pid != *client_pid) // 구조체 안에 info랑 pid랑 다르면
 	{
-		*client_pid = info->si_pid;
-		*counter = 0;
+		*client_pid = info->si_pid; // pid 바꾸고
+		*counter = 0; // 0으로 초기화
 	}
 }
 

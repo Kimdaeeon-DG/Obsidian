@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1215c4a645d66ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk/code/server.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,17 +160,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "3f13314ed341ff0e",
+  "active": "1215c4a645d66ced",
   "lastOpenFiles": [
+    "minitalk/code/minitalk.h.md",
+    "minitalk/code/client.c.md",
+    "minitalk/code/minitalk_util.c.md",
+    "minitalk/code/server.c.md",
+    "conflict-files-obsidian-git.md",
     "minitalk/en.subject ko.pdf",
     "minitalk/minitalk 개념 정리.md",
     "학회장.md",
     "무제 파일.md",
-    "minitalk/code/server.c.md",
-    "minitalk/code/client.c.md",
     "minitalk/code/Makefile.md",
-    "minitalk/code/minitalk.h.md",
-    "minitalk/code/minitalk_util.c.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "Push_swap/push_swap 설계 단계.md",
     "rush01/러쉬 평가.md",
