@@ -13,24 +13,154 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "rush01/rush01 ko.pdf"
+                "file": "Push_swap/Push_swap 평가표.pdf"
               }
             }
           },
           {
-            "id": "83949f64e59635c1",
+            "id": "9755931bb8be38ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학회장.md",
+                "file": "Push_swap/에러처리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d969e1bcb6b58b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Push_swap/Push_swap구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb42487d6d27faa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b83eed9f32c2e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rush01/러쉬 평가.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d4b1a7cc4ec7fe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "minitalk/en.subject ko.pdf"
+              }
+            }
+          },
+          {
+            "id": "9d552e234239f5ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk/code/client.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54129bf1fe6654d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk/code/server.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b68567679c7eb838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk/code/minitalk.h.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cee51991044e712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk/code/server.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c71e6e06ba44fb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "minitalk/code/minitalk_util.c.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7497c9f5dc84131e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Push_swap/push_swap 설계 단계.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4afc959703296934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언 기본/옵시디언 플러그인.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -80,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -96,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학회장.md",
+                "file": "minitalk/code/minitalk_util.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학회장.md",
+                "file": "minitalk/code/minitalk_util.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학회장.md"
+                "file": "minitalk/code/minitalk_util.c.md"
               }
             }
           }
@@ -149,53 +279,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vscode-editor:Create Code File": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "83949f64e59635c1",
+  "active": "c71e6e06ba44fb0d",
   "lastOpenFiles": [
-    "rush01/rush01 ko.pdf",
     "학회장.md",
-    "minitalk/code/server.c.md",
+    "minitalk/code/client.c.md",
     "minitalk/code/minitalk_util.c.md",
     "minitalk/code/minitalk.h.md",
-    "minitalk/code/client.c.md",
-    "minitalk/code/Makefile.md",
-    "minitalk/minitalk 평가표 번역.pdf",
+    "minitalk/code/server.c.md",
+    "무제 파일.md",
     "minitalk/minitalk 개념 정리.md",
+    "minitalk/minitalk 평가표 번역.pdf",
+    "minitalk/minitalk 평가지.md",
+    "Push_swap/Push_swap 평가표.pdf",
+    "minitalk/code/Makefile.md",
+    "client.c",
     "minitalk/en.subject.pdf",
-    "minitalk/en.subject ko.pdf",
+    "minitalk_utils.c",
     "minitalk/code",
-    "minitalk",
-    "minitalk.h",
-    "Makefile 2",
-    "Makefile 1",
-    "Makefile",
-    "mini_talk",
-    "rush01/참고 사이트.md",
-    "rush01/러쉬 평가.md",
-    "Push_swap/참고.md",
-    "Push_swap/Push_swap구조.md",
-    "Push_swap구조.md",
-    "Push_swap/libft에서 참조할 함수.md",
-    "Push_swap/push_swap 설계 단계.md",
-    "Push_swap/에러처리.md",
-    "Push_swap/파일 디스크립터 (File Descriptors).md",
-    "Push_swap/Push_swap 기본 명령어.md",
+    "minitalk/server.c",
+    "minitalk/en.subject ko.pdf",
     "시험웹사이트/사이트 구성.md",
-    "Push_swap/참고 자료.md",
-    "옵시디언 기본/옵시디언.md",
-    "옵시디언 기본/옵시디언 적응기.md",
+    "minitalk/Minitalk.md",
+    "server.c",
+    "Makefile 2",
+    "rush01/러쉬 평가.md",
+    "rush01/참고 사이트.md",
+    "Push_swap/Push_swap구조.md",
+    "Push_swap/에러처리.md",
+    "Push_swap/push_swap 설계 단계.md",
+    "Push_swap/Push_swap 기본 명령어.md",
+    "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/파일 디스크립터 (File Descriptors).md",
+    "Push_swap/참고.md",
     "옵시디언 기본/옵시디언 플러그인.md",
+    "옵시디언 기본/옵시디언 적응기.md",
+    "옵시디언 기본/옵시디언.md",
+    "Push_swap/참고 자료.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신.md",
-    "born2beroot/born2beroot 평가지.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
