@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "3583215f9e8ca423",
+        "id": "8a7c51a23863909c",
         "type": "tabs",
         "children": [
           {
-            "id": "1215c4a645d66ced",
+            "id": "4adffbeb3301826f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "rush01/rush01 ko.pdf"
+              }
+            }
+          },
+          {
+            "id": "83949f64e59635c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minitalk/code/minitalk_util.c.md",
+                "file": "시험웹사이트/사이트 구성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 300
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minitalk/code/minitalk_util.c.md",
+                "file": "시험웹사이트/사이트 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minitalk/code/minitalk_util.c.md",
+                "file": "시험웹사이트/사이트 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minitalk/code/minitalk_util.c.md"
+                "file": "시험웹사이트/사이트 구성.md"
               }
             }
           }
@@ -138,52 +149,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "vscode-editor:Create Code File": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1215c4a645d66ced",
+  "active": "83949f64e59635c1",
   "lastOpenFiles": [
-    "minitalk/code/server.c.md",
-    "minitalk/minitalk 개념 정리.md",
-    "minitalk/minitalk 평가표 번역.pdf",
-    "minitalk/code/minitalk.h.md",
-    "minitalk/code/minitalk_util.c.md",
-    "minitalk/code/Makefile.md",
     "minitalk/code/client.c.md",
-    "Push_swap/참고.md",
+    "minitalk/code/Makefile.md",
+    "minitalk/code/minitalk_util.c.md",
+    "minitalk/code/minitalk.h.md",
+    "minitalk/code/server.c.md",
     "학회장.md",
-    "conflict-files-obsidian-git.md",
-    "minitalk/en.subject ko.pdf",
     "무제 파일.md",
-    "옵시디언 기본/옵시디언 플러그인.md",
-    "Push_swap/push_swap 설계 단계.md",
-    "rush01/러쉬 평가.md",
-    "Push_swap/Push_swap구조.md",
-    "Push_swap/에러처리.md",
     "Push_swap/Push_swap 평가표.pdf",
-    "minitalk/minitalk 평가지.md",
-    "client.c",
+    "rush01/rush01 ko.pdf",
+    "minitalk/minitalk 평가표 번역.pdf",
+    "minitalk/minitalk 개념 정리.md",
     "minitalk/en.subject.pdf",
-    "minitalk_utils.c",
+    "minitalk/en.subject ko.pdf",
     "minitalk/code",
-    "minitalk/server.c",
-    "시험웹사이트/사이트 구성.md",
-    "minitalk/Minitalk.md",
-    "server.c",
+    "minitalk",
+    "minitalk.h",
     "Makefile 2",
+    "Makefile 1",
     "rush01/참고 사이트.md",
-    "Push_swap/Push_swap 기본 명령어.md",
+    "rush01/러쉬 평가.md",
+    "Push_swap/참고.md",
+    "Push_swap/Push_swap구조.md",
+    "Push_swap구조.md",
     "Push_swap/libft에서 참조할 함수.md",
+    "Push_swap/push_swap 설계 단계.md",
+    "Push_swap/에러처리.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
-    "옵시디언 기본/옵시디언 적응기.md",
-    "옵시디언 기본/옵시디언.md",
+    "Push_swap/Push_swap 기본 명령어.md",
+    "시험웹사이트/사이트 구성.md",
     "Push_swap/참고 자료.md",
+    "옵시디언 기본/옵시디언.md",
+    "옵시디언 기본/옵시디언 적응기.md",
+    "옵시디언 기본/옵시디언 플러그인.md",
+    "born2beroot/그룹과  유저.md",
+    "born2beroot/가상머신.md",
+    "born2beroot/born2beroot 평가지.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
