@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f4ec8bd070001611",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f48cb8ed32d814e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "minitalk/code/client.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
