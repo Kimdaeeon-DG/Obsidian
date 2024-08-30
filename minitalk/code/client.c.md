@@ -40,7 +40,7 @@ int	main(int argc, char **argv)
 		if (!is_valid_pid(argv[1])) // pid가 정수가 아니면
 		{
 			ft_putstr("Error PID.\n"); // 에러 출력
-			return (1); // 끝
+			return (1);
 		}
 		server_pid = ft_atoi(argv[1]); // 문자를 숫자로 바꿔줌
 		if (server_pid <= 0)
