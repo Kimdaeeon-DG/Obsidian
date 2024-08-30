@@ -6,17 +6,17 @@ void	send_sig(unsigned char s, int server_pid)
 	int	i;
 
 	i = 8;
-	while (--i >= 0) //비트
+	while (--i >= 0) // 비트가 8개 쌓였으면
 	{
-		if (s & (1 << i))
+		if (s & (1 << i)) // 1 전송
 			kill(server_pid, SIGUSR1);
-		else
+		else // 2 전송
 			kill(server_pid, SIGUSR2);
-		usleep(300);
+		usleep(300); // 마이크로초
 	}
 }
 
-int	is_valid_pid(const char *pid_str)
+int	is_valid_pid(const char *pid_str) // pid가 정수인가
 {
 	int	i;
 
@@ -37,19 +37,17 @@ int	main(int argc, char **argv)
 
 	if (argc == 3)
 	{	
-		if (!is_valid_pid(argv[1]))
+		if (!is_valid_pid(argv[1])) // pid가 정수가 아니면
 		{
-			ft_putstr("Error: Invalid PID.\n");
-			return (1);
+			ft_putstr("Error: Invalid PID.\n"); // 에러 출력
+			return (1); // 끝
 		}
-		server_pid = ft_atoi(argv[1]);
+		server_pid = ft_atoi(argv[1]); // 문자를 숫자로 바꿔줌
 		if (server_pid <= 0)
 		{
 			ft_putstr("Error: Invalid PID.\n");
 			return (1);
 		}
-		if (!server_pid)
-			return (0);
 		i = -1;
 		while (argv[2][++i])
 			send_sig((unsigned char)argv[2][i], server_pid);
