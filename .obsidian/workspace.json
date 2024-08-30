@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minitalk/code/client.c.md",
+                "file": "minitalk/code/server.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minitalk/code/client.c.md",
+                "file": "minitalk/code/server.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minitalk/code/client.c.md"
+                "file": "minitalk/code/server.c.md"
               }
             }
           }
@@ -177,17 +177,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83949f64e59635c1",
+  "active": "9acf415b23feec8a",
   "lastOpenFiles": [
+    "minitalk/code/minitalk.h.md",
+    "minitalk/code/client.c.md",
+    "minitalk/code/Makefile.md",
+    "minitalk/code/minitalk_util.c.md",
     "minitalk/code/server.c.md",
     "무제 파일.md",
-    "minitalk/code/Makefile.md",
-    "minitalk/code/client.c.md",
-    "minitalk/code/minitalk_util.c.md",
     "Push_swap/Push_swap 평가표.pdf",
     "학회장.md",
     "rush01/rush01 ko.pdf",
-    "minitalk/code/minitalk.h.md",
     "minitalk/minitalk 평가표 번역.pdf",
     "minitalk/minitalk 개념 정리.md",
     "minitalk/en.subject.pdf",

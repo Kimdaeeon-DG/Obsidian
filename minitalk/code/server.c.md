@@ -2,8 +2,8 @@
 #include "../minitalk.h"
 
 void	check_interupt(siginfo_t *info, pid_t *client_pid, int *counter)
-{
-	if (info->si_pid != *client_pid)
+{   // 초기화 갱신
+	if (info->si_pid != *client_pid) 
 	{
 		*client_pid = info->si_pid;
 		*counter = 0;
