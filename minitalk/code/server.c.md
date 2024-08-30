@@ -37,11 +37,13 @@ void	handle_usr_signals(int SIGUSR, siginfo_t *info, void *vp)
 		counter--;
 	}
 	if (SIGUSR == SIGUSR2)
+	// 현재 위치의 비트르 변경하지 않고 넘어감
 		counter--;
 	if (counter == 0)
+	// 0이 되면 문자의 모든 비트가 수신된 것이므로 문자 출력
 	{
 		write(1, &c, 1);
-		counter = 0;
+		counter = 0; // 0으로 다시 초기화
 	}
 }
 
@@ -52,12 +54,11 @@ int	main(void)
 	ft_putstr("PID: ");
 	ft_putnbr(getpid());
 	ft_putchar('\n');
-	sa_usrs.sa_flags = SA_SIGINFO;
-	sa_usrs.sa_sigaction = handle_usr_signals;
+	sa_usrs.sa_flags = SA_SIGINFO; // 신호 핸들러가 추가 정보를 받도록 설정
+	sa_usrs.sa_sigaction = handle_usr_signals; // 신호가 발생했을 때 호출될 함수를 지정
 	sigaction(SIGUSR1, &sa_usrs, NULL);
 	sigaction(SIGUSR2, &sa_usrs, NULL);
 	while (1)
 		pause();
-	return (0);
 }
 ```
