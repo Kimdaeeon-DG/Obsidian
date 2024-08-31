@@ -57,8 +57,8 @@ int	main(void)
 	sa_usrs.sa_flags = SA_SIGINFO; // 신호 핸들러가 추가 정보를 받도록 설정
 	sa_usrs.sa_sigaction = handle_usr_signals; // 신호가 발생했을 때 호출될 함수를 지정
 	sigaction(SIGUSR1, &sa_usrs, NULL); 
-	// 신호가 호출
 	sigaction(SIGUSR2, &sa_usrs, NULL);
+	// 신호를 처리하는 함수를 설정
 	while (1)
 		pause();
 }
