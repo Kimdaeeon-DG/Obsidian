@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "학회장.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "학회장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "학회장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md"
+                "file": "학회장.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "83949f64e59635c1",
   "lastOpenFiles": [
+    "시험웹사이트/사이트 구성.md",
     "minitalk/code/client.c.md",
     "minitalk/code/Makefile.md",
     "minitalk/code/minitalk_util.c.md",
@@ -188,7 +189,6 @@
     "Push_swap/에러처리.md",
     "Push_swap/파일 디스크립터 (File Descriptors).md",
     "Push_swap/Push_swap 기본 명령어.md",
-    "시험웹사이트/사이트 구성.md",
     "Push_swap/참고 자료.md",
     "옵시디언 기본/옵시디언.md",
     "옵시디언 기본/옵시디언 적응기.md",
