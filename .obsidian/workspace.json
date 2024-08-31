@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minitalk/code/server.c.md",
+                "file": "minitalk/code/client.c.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minitalk/code/server.c.md",
+                "file": "minitalk/code/client.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minitalk/code/server.c.md",
+                "file": "minitalk/code/client.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minitalk/code/server.c.md"
+                "file": "minitalk/code/client.c.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "1215c4a645d66ced",
   "lastOpenFiles": [
+    "minitalk/code/server.c.md",
     "minitalk/code/client.c.md",
     "minitalk/code/Makefile.md",
     "minitalk/code/minitalk.h.md",
@@ -156,7 +157,6 @@
     "minitalk/minitalk 개념 정리.md",
     "시험웹사이트/사이트 구성.md",
     "학회장.md",
-    "minitalk/code/server.c.md",
     "minitalk/minitalk 평가표 번역.pdf",
     "Push_swap/참고.md",
     "conflict-files-obsidian-git.md",
