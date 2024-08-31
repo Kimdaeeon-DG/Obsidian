@@ -56,3 +56,20 @@ struct sigaction {
 ```
 > *sigaction*은 C언어에서 신호 처리 방식을 정의하기 위해 사용되는 구조체임.
 > *sa_flags*는 신호 처리기의 동작 방식을 제어하는 플래그들을 설정하는데 사용
+##### SA_SIGINFO 플래그
+>`{C}void handler(int signum, siginfo_t *info, void *context);`
+##### siginfo_t 구조체의 주요 필드
+```C
+typedef struct {
+    int      si_signo;  // 신호 번호
+    int      si_errno;  // 신호와 관련된 에러 번호
+    int      si_code;   // 신호의 발생 원인
+    pid_t    si_pid;    // 신호를 보낸 프로세스의 PID
+    uid_t    si_uid;    // 신호를 보낸 유효 사용자 ID
+    void    *si_addr;   // 메모리 참조가 원인인 경우의 주소
+    int      si_status; // 종료 상태 또는 핸들러 코드
+    long     si_band;   // I/O 관련 이벤트 발생 시의 밴드 이벤트
+    // ... 기타 필드
+} siginfo_t;
+
+```
