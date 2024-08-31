@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a652d174f3566619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학회장/모니터링단.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학회장/모니터링단.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학회장/모니터링단.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,8 +182,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "a652d174f3566619",
   "lastOpenFiles": [
+    "학회장/모니터링단.md",
+    "conflict-files-obsidian-git.md",
+    "학회장.md",
     "학회장/모니터링단 스크린샷",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.13.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.12.40.png",
@@ -181,7 +196,6 @@
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.28.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.03.png",
     "학회장/공지사항.md",
-    "학회장/모니터링단.md",
     "학회장",
     "시험웹사이트/사이트 구성.md",
     "minitalk/code/client.c.md",
@@ -198,7 +212,6 @@
     "minitalk/code",
     "minitalk",
     "minitalk.h",
-    "Makefile 2",
     "rush01/참고 사이트.md",
     "rush01/러쉬 평가.md",
     "Push_swap/참고.md",
@@ -214,7 +227,6 @@
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/그룹과  유저.md",
-    "born2beroot/가상머신.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
