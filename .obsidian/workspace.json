@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "minitalk/code/minitalk_util.c.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "minitalk/code/minitalk_util.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "minitalk/code/minitalk_util.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md"
+                "file": "minitalk/code/minitalk_util.c.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "1215c4a645d66ced",
+  "active": "b7290802418aa587",
   "lastOpenFiles": [
+    "minitalk/minitalk 개념 정리.md",
+    "시험웹사이트/사이트 구성.md",
     "학회장.md",
     "minitalk/code/minitalk_util.c.md",
     "minitalk/code/server.c.md",
-    "minitalk/minitalk 개념 정리.md",
     "minitalk/minitalk 평가표 번역.pdf",
     "minitalk/code/minitalk.h.md",
     "minitalk/code/Makefile.md",
@@ -173,7 +174,6 @@
     "minitalk_utils.c",
     "minitalk/code",
     "minitalk/server.c",
-    "시험웹사이트/사이트 구성.md",
     "minitalk/Minitalk.md",
     "server.c",
     "Makefile 2",
