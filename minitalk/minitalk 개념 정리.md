@@ -45,3 +45,14 @@
 >	**유저가 관리자 권한을 가지고 있다면 (Superuser privilege)** 시스템 프로세스와 현재 시그널을 전송하려는 프로세스를 제외한 모든 프로세스에 시그널을 전송
 >	**유저가 관리자 권한을 가지고 있지 않다면**, 해당 유저와 같은 uid를 가진 프로세스에만 현재 시그널을 전송
 
+##### sigaction 구조체와 sa_flags
+```C
+struct sigaction {
+    void     (*sa_handler)(int);
+    void     (*sa_sigaction)(int, siginfo_t *, void *);
+    sigset_t sa_mask;
+    int      sa_flags;
+};
+```
+> *sigaction*은 C언어에서 신호 처리 방식을 정의하기 위해 사용되는 구조체임.
+> *sa_flags*는 신호 처리기의 동작 방식을 제어하는 플래그들을 설정하는데 사용
