@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minitalk/code/server.c.md",
+                "file": "minitalk/minitalk 개념 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minitalk/code/server.c.md",
+                "file": "minitalk/minitalk 개념 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minitalk/code/server.c.md",
+                "file": "minitalk/minitalk 개념 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minitalk/code/server.c.md"
+                "file": "minitalk/minitalk 개념 정리.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "1215c4a645d66ced",
   "lastOpenFiles": [
+    "minitalk/code/server.c.md",
     "minitalk/minitalk 개념 정리.md",
     "minitalk/en.subject ko.pdf",
     "minitalk/en.subject.pdf",
-    "minitalk/code/server.c.md",
     "minitalk/minitalk 평가표 번역.pdf",
     "minitalk/code/client.c.md",
     "minitalk/code/Makefile.md",
