@@ -22,7 +22,7 @@ void	handle_usr_signals(int SIGUSR, siginfo_t *info, void *vp)
 	static unsigned char	c;
 	// static 쓰는 이유: 함수가 호출될 때마다 재초기화 되지 않고 값을 유지
 
-	(void)vp; // 사용하지 않지만 norminette 때문에 선언
+	(void)vp; // 사용하지 않지만 적어주지 않으면 컴파일 할 때 오류 
 	// 저 형식이 signal.h에 있음
 	check_interupt(info, &client_pid, &counter);
 	if (!counter) // 0이면 새로운 문자를 수신할 준비가 된 것
@@ -58,7 +58,7 @@ int	main(void)
 	sa_usrs.sa_sigaction = handle_usr_signals; // 신호가 발생했을 때 호출될 함수를 지정
 	sigaction(SIGUSR1, &sa_usrs, NULL); 
 	sigaction(SIGUSR2, &sa_usrs, NULL);
-	// 각각의 신호를 처리하는 함수 설정
+	// 신호를 처리하는 함수를 설정
 	while (1)
 		pause();
 }
