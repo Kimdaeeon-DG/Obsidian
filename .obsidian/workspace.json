@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학회장.md",
+                "file": "학회장/공지사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "425ad056246b11df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학회장/모니터링단.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학회장.md",
+                "file": "학회장/모니터링단.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학회장.md",
+                "file": "학회장/모니터링단.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학회장.md"
+                "file": "학회장/모니터링단.md"
               }
             }
           }
@@ -158,16 +170,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83949f64e59635c1",
+  "active": "425ad056246b11df",
   "lastOpenFiles": [
+    "스크린샷 2024-08-31 오후 3.11.28.png",
+    "스크린샷 2024-08-31 오후 3.11.03.png",
+    "학회장/공지사항.md",
+    "학회장/모니터링단.md",
+    "학회장",
     "시험웹사이트/사이트 구성.md",
     "minitalk/code/client.c.md",
     "minitalk/code/Makefile.md",
     "minitalk/code/minitalk_util.c.md",
     "minitalk/code/minitalk.h.md",
     "minitalk/code/server.c.md",
-    "학회장.md",
-    "무제 파일.md",
     "Push_swap/Push_swap 평가표.pdf",
     "rush01/rush01 ko.pdf",
     "minitalk/minitalk 평가표 번역.pdf",
@@ -178,7 +193,6 @@
     "minitalk",
     "minitalk.h",
     "Makefile 2",
-    "Makefile 1",
     "rush01/참고 사이트.md",
     "rush01/러쉬 평가.md",
     "Push_swap/참고.md",
@@ -195,7 +209,6 @@
     "옵시디언 기본/옵시디언 플러그인.md",
     "born2beroot/그룹과  유저.md",
     "born2beroot/가상머신.md",
-    "born2beroot/born2beroot 평가지.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
