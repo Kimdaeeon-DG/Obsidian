@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/참고.md",
+                "file": "학회장/학회장.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push_swap/참고.md",
+                "file": "학회장/학회장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Push_swap/참고.md",
+                "file": "학회장/학회장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push_swap/참고.md"
+                "file": "학회장/학회장.md"
               }
             }
           }
@@ -170,14 +170,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "425ad056246b11df",
+  "active": "b7290802418aa587",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Push_swap/참고.md",
-    "Push_swap/에러처리.md",
-    "Push_swap/Push_swap구조.md",
     "학회장/모니터링단.md",
-    "학회장.md",
+    "학회장/공지사항.md",
+    "rush01/러쉬 평가.md",
+    "Push_swap/Push_swap구조.md",
+    "Push_swap/참고.md",
+    "conflict-files-obsidian-git.md",
+    "Push_swap/에러처리.md",
+    "학회장/학회장.md",
     "학회장/모니터링단 스크린샷",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.13.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.12.40.png",
@@ -186,7 +188,6 @@
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.28.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.03.png",
-    "학회장/공지사항.md",
     "학회장",
     "시험웹사이트/사이트 구성.md",
     "minitalk/code/client.c.md",
@@ -204,7 +205,6 @@
     "minitalk",
     "minitalk.h",
     "rush01/참고 사이트.md",
-    "rush01/러쉬 평가.md",
     "Push_swap구조.md",
     "Push_swap/libft에서 참조할 함수.md",
     "Push_swap/push_swap 설계 단계.md",
