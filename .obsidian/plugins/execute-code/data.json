@@ -1,5 +1,5 @@
 {
-  "lastOpenLanguageTab": "js",
+  "lastOpenLanguageTab": "python",
   "timeout": 10000,
   "allowInput": true,
   "wslMode": false,
@@ -27,7 +27,7 @@
   "csArgs": "",
   "csFileExtension": "csx",
   "csInject": "",
-  "pythonPath": "python",
+  "pythonPath": "/Users/kimdaeeon/miniforge3/bin/python",
   "pythonArgs": "",
   "pythonEmbedPlots": true,
   "pythonFileExtension": "py",
