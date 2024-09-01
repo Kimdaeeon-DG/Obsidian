@@ -21,3 +21,20 @@ numbers = [1, 2, 3, 4, 5]
 result = all(x > 0 for x in numbers)  # 모든 요소가 0보다 큰지 확인
 print(result)
 ```
+##### dictionary
+> 값의 쌍으로 데이터를 저장하는 자료형을 나타냄
+> 빠른 조회와 업데이트가 가능한 해시 테이블 기반의 자료 구조
+```python
+my_dict = {}
+```
+```python
+my_dict = {
+    "name": "Alice",
+    "age": 25,
+    "city": "New York"
+	}
+print(my_dict["name"])  # 출력: Alice
+```
+
+
+
