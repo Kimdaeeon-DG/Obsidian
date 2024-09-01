@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코딩테스트.md",
+                "file": "python 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트.md",
+                "file": "python 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트.md",
+                "file": "python 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트.md"
+                "file": "python 문법.md"
               }
             }
           }
@@ -185,7 +185,7 @@
   "active": "b068744de3809c65",
   "lastOpenFiles": [
     "rush01/rush01 ko.pdf",
-    "코딩테스트.md",
+    "python 문법.md",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/Push_swap구조.md",
     "학회장/학회장.md",
