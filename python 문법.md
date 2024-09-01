@@ -24,10 +24,10 @@ print(result)
 ##### dictionary
 > 값의 쌍으로 데이터를 저장하는 자료형을 나타냄
 > 빠른 조회와 업데이트가 가능한 해시 테이블 기반의 자료 구조
-```python
+```python title:빈_딕셔너리_생성
 my_dict = {}
 ```
-```python
+```python title:키-값_쌍을_포함한_딕셔너리
 my_dict = {
     "name": "Alice",
     "age": 25,
@@ -35,6 +35,10 @@ my_dict = {
 	}
 print(my_dict["name"])  # 출력: Alice
 ```
-
+```python title:새로운_키-값_쌍_추가
+my_dict["job"] = "Engineer"
+print(my_dict)
+# 출력: {'name': 'Alice', 'age': 25, 'city': 'New York', 'job': 'Engineer'}
+```
 
 
