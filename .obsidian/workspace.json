@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fad21efc4cac2ec6",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +148,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fad21efc4cac2ec6",
+  "active": "1215c4a645d66ced",
   "lastOpenFiles": [
     "학회장",
     "학회장/학회장.md",
