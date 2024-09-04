@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad21efc4cac2ec6",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,10 +153,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1215c4a645d66ced",
+  "active": "fad21efc4cac2ec6",
   "lastOpenFiles": [
     "학회장",
     "학회장/학회장.md",
