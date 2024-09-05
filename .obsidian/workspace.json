@@ -47,8 +47,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
-                "mode": "preview",
+                "file": "python 문법.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "python 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md",
+                "file": "python 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시험웹사이트/사이트 구성.md"
+                "file": "python 문법.md"
               }
             }
           }
@@ -185,13 +185,16 @@
   },
   "active": "b068744de3809c65",
   "lastOpenFiles": [
+    "rush01/rush01 ko.pdf",
+    "rush01/rush01.pdf",
+    "시험웹사이트/사이트 구성.md",
+    "born2beroot/Born2beroot 정리.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본/옵시디언.md",
     "python 문법.md",
     "conflict-files-obsidian-git.md",
     "학회장/축제 주막.md",
-    "rush01/rush01 ko.pdf",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/Push_swap구조.md",
     "학회장/학회장.md",
@@ -209,7 +212,6 @@
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.28.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.03.png",
     "학회장",
-    "시험웹사이트/사이트 구성.md",
     "minitalk/code/client.c.md",
     "minitalk/code/Makefile.md",
     "minitalk/code/minitalk_util.c.md",
@@ -226,8 +228,6 @@
     "Push_swap구조.md",
     "Push_swap/libft에서 참조할 함수.md",
     "Push_swap/push_swap 설계 단계.md",
-    "Push_swap/파일 디스크립터 (File Descriptors).md",
-    "Push_swap/Push_swap 기본 명령어.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
