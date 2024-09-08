@@ -35,26 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Push_swap/Push_swap 기본 명령어.md",
+                "file": "문화적다양성.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b068744de3809c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python 문법.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python 문법.md",
+                "file": "문화적다양성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python 문법.md",
+                "file": "문화적다양성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python 문법.md"
+                "file": "문화적다양성.md"
               }
             }
           }
@@ -183,8 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b068744de3809c65",
+  "active": "425ad056246b11df",
   "lastOpenFiles": [
+    "Push_swap/Push_swap 기본 명령어.md",
+    "문화적다양성.md",
+    "python 문법.md",
     "rush01/rush01 ko.pdf",
     "rush01/rush01.pdf",
     "시험웹사이트/사이트 구성.md",
@@ -192,7 +183,6 @@
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
     "옵시디언 기본/옵시디언.md",
-    "python 문법.md",
     "conflict-files-obsidian-git.md",
     "학회장/축제 주막.md",
     "Push_swap/Push_swap 평가표.pdf",
@@ -223,11 +213,9 @@
     "minitalk/en.subject ko.pdf",
     "minitalk/code",
     "minitalk",
-    "minitalk.h",
     "rush01/참고 사이트.md",
     "Push_swap구조.md",
     "Push_swap/libft에서 참조할 함수.md",
-    "Push_swap/push_swap 설계 단계.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
