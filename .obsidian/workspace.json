@@ -107,11 +107,9 @@
             "id": "7cc9e7a8d24fa6fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "fract-ol/code/main.c.md",
-                "mode": "source",
-                "source": false
+                "file": "minitalk/minitalk 평가표 번역.pdf"
               }
             }
           },
@@ -178,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260,
-    "collapsed": true
+    "width": 260
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -195,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fract-ol/code/main.c.md",
+                "file": "minitalk/minitalk 평가표 번역.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fract-ol/code/main.c.md",
+                "file": "minitalk/minitalk 평가표 번역.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fract-ol/code/main.c.md"
+                "file": "minitalk/minitalk 평가표 번역.pdf"
               }
             }
           }
@@ -258,13 +255,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "7cc9e7a8d24fa6fe",
   "lastOpenFiles": [
+    "fract-ol/code/en.subject (1).pdf",
+    "Fract'ol.pdf",
+    "minitalk/minitalk 평가표 번역.pdf",
+    "fract-ol/code/mlx_hook.c.md",
+    "fract-ol/code/main.c.md",
     "fract-ol/code/canvas_utils.c.md",
     "fract-ol/code/color_utils.c.md",
     "fract-ol/code/draw_fractal.c.md",
-    "fract-ol/code/main.c.md",
-    "fract-ol/code/mlx_hook.c.md",
     "fract-ol/code/mlx_hook2.c.md",
     "fract-ol/code/mlx_utils.c.md",
     "fract-ol/code/utils.c.md",
@@ -278,8 +278,6 @@
     "fract-ol/code/canvas_utils.c",
     "fract-ol/code/color_utils.c",
     "fract-ol/무제 파일.md",
-    "fract-ol/code",
-    "fractol.h",
     "fract-ol/Pasted image 20240910144005.png",
     "학회장/학회장.md",
     "학회장/축제 주막.md",
