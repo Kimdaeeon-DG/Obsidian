@@ -9,12 +9,18 @@ void	update_fractal_c(t_canvas *canvas)
 	double	mouse_im;
 
 	mlx_mouse_get_pos(canvas->mlx, canvas->win, &x, &y);
-	if (!x && !y)
+	// 현재 마우스의 (x, y) 좌표를 가져옴
+	if (!x && !y) // 마우스 좌표가 (0, 0)일 경우 함수 종료
 		return ;
+
+	// 마우스의 x좌표를 실수 부분으로 변환
 	mouse_re = (double)x
 		/ (WIDTH / (canvas->max_re - canvas->min_re)) + canvas->min_re;
-	mouse_im = (double)y
+	// 마우스의 y좌표를 허수 부분으로 변환 (Y축은 위가 양수이므로 -1을 곱함)
+	mouse_im = (double)y 
 		/ (HEIGHT / (canvas->max_im - canvas->min_im)) * -1 + canvas->max_im;
+
+	// 계산된 실수 및 허수 값을 프랙탈의 c 값으로 업데이트
 	canvas->c_re = mouse_re;
 	canvas->c_im = mouse_im;
 }

@@ -20,26 +20,6 @@
             }
           },
           {
-            "id": "88ab5a83a2155e6d",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "fract-ol/code/utils.c"
-              }
-            }
-          },
-          {
-            "id": "7e4eff5bb66f0602",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "fract-ol/code/mlx_utils.c"
-              }
-            }
-          },
-          {
             "id": "8ddb13f3f26b8621",
             "type": "leaf",
             "state": {
@@ -55,9 +35,11 @@
             "id": "5f2e654ec89d1619",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "fract-ol/code/mlx_utils.c"
+                "file": "fract-ol/code/color_utils.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -67,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fract-ol/code/canvas_utils.md",
+                "file": "fract-ol/code/canvas_utils.c.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fract-ol/code/draw_fractal.md",
+                "file": "fract-ol/code/draw_fractal.c.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,9 +83,11 @@
             "id": "e0757740555ad3ac",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "fract-ol/code/mlx_utils.c"
+                "file": "fract-ol/code/mlx_hook.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -113,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "fract-ol/code/mlx_utils.c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc9e7a8d24fa6fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fract-ol/code/main.c.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,14 +119,16 @@
             "id": "838da37adee4f617",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "fract-ol/code/mlx_utils.c"
+                "file": "fract-ol/code/mlx_hook2.c.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -180,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260
+    "width": 260,
+    "collapsed": true
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "fract-ol/code/main.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "fract-ol/code/main.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "fract-ol/code/main.c.md"
               }
             }
           }
@@ -259,24 +258,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f617c174061e2db",
+  "active": "b7290802418aa587",
   "lastOpenFiles": [
-    "fract-ol/code/mlx_utils.c",
-    "무제 파일.md",
-    "fract-ol/code/mlx_hook.c.md",
-    "fract-ol/code/mlx_hooks2.c",
-    "fract-ol/code/mlx_hook2.c.md",
+    "fract-ol/code/canvas_utils.c.md",
+    "fract-ol/code/color_utils.c.md",
+    "fract-ol/code/draw_fractal.c.md",
     "fract-ol/code/main.c.md",
+    "fract-ol/code/mlx_hook.c.md",
+    "fract-ol/code/mlx_hook2.c.md",
+    "fract-ol/code/mlx_utils.c.md",
+    "fract-ol/code/utils.c.md",
+    "fract-ol/code/mlx_utils.c",
+    "fract-ol/code/utils.c",
+    "fract-ol/code/mlx_hooks2.c",
     "fract-ol/code/mlx_hooks.c",
-    "fract-ol/code/canvas_utils.md",
     "fract-ol/code/draw_fractal.c",
-    "fract-ol/code/draw_fractal.md",
     "fract-ol/code/main.c",
     "minitalk/code/client.c.md",
     "fract-ol/code/canvas_utils.c",
     "fract-ol/code/color_utils.c",
-    "fract-ol/code/color_utils.md",
-    "fract-ol/code/utils.c",
     "fract-ol/무제 파일.md",
     "fract-ol/code",
     "fractol.h",
@@ -296,7 +296,6 @@
     "rush01/러쉬 평가.md",
     "Push_swap/Push_swap구조.md",
     "Push_swap/에러처리.md",
-    "minitalk/minitalk 평가지.md",
     "born2beroot/가상머신 구조.png"
   ]
 }
