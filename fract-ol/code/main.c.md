@@ -27,9 +27,13 @@ void	update_fractal_c(t_canvas *canvas)
 
 int	main_loop(t_canvas *canvas)
 {
-	if (canvas->is_pressed_shift)
+	if (canvas->is_pressed_shift) // Shift 키가 눌렸을 때만 프랙탈 c값을 업데이트
 		update_fractal_c(canvas);
+
+	// 선택된 프랙탈 그리기 함수를 호출하여 화면에 프랙탈을 그림
 	canvas->fractal_drawer(canvas);
+
+	// 그려진 이미지를 창에 표시
 	mlx_put_image_to_window(canvas->mlx, canvas->win, canvas->img.img, 0, 0);
 	return (0);
 }
@@ -59,11 +63,19 @@ int	main(int argc, char **argv)
 			"- burningship\n");
 		return (1);
 	}
-	initialize_canvas(&canvas);
+	initialize_canvas(&canvas); // 캔버스 초기화 (창, 이미지 등 설정)
+
+	// 키 입력 관련 이벤트 처리
 	mlx_hook(canvas.win, KeyPress, KeyPressMask, key_press_hook, &canvas);
 	mlx_hook(canvas.win, KeyRelease, KeyReleaseMask, key_release_hook, &canvas);
+
+	// 창 닫기 이벤트 처리
 	mlx_hook(canvas.win, ClientMessage, 1L << 17, exit_canvas, &canvas);
+
+	// 마우스 클릭 이벤트 처리
 	mlx_mouse_hook(canvas.win, mouse_hook, &canvas);
+
+	// 메인 루프에서 반복적으로 'main_loop' 호출
 	mlx_loop_hook(canvas.mlx, &main_loop, &canvas);
 	mlx_loop(canvas.mlx);
 }
