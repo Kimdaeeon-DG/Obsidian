@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학회장/축제 주막.md",
+                "file": "fract-ol/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학회장/축제 주막.md",
+                "file": "fract-ol/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학회장/축제 주막.md",
+                "file": "fract-ol/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학회장/축제 주막.md"
+                "file": "fract-ol/무제 파일.md"
               }
             }
           }
@@ -150,9 +150,11 @@
   },
   "active": "1215c4a645d66ced",
   "lastOpenFiles": [
-    "학회장",
     "학회장/학회장.md",
+    "fract-ol/무제 파일.md",
+    "fract-ol",
     "학회장/축제 주막.md",
+    "학회장",
     "minitalk/code/server.c.md",
     "minitalk/en.subject ko.pdf",
     "minitalk/minitalk 평가표 번역.pdf",
@@ -177,8 +179,6 @@
     "minitalk/code",
     "minitalk/server.c",
     "minitalk/Minitalk.md",
-    "server.c",
-    "Makefile 2",
     "rush01/참고 사이트.md",
     "Push_swap/Push_swap 기본 명령어.md",
     "Push_swap/libft에서 참조할 함수.md",
