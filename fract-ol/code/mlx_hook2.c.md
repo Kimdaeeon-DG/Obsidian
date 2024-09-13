@@ -14,7 +14,7 @@ static void	zoom_canvas(t_canvas *canvas, int button, int x, int y)
 
 	interpolation = 1;
 
-	// 화면
+	// 화면 상의 마우스 좌표를 복소수 평면 좌표로 변환 시킴
 	mouse_re = (double)x
 		/ (WIDTH / (canvas->max_re - canvas->min_re)) + canvas->min_re;
 	mouse_im = (double)y
