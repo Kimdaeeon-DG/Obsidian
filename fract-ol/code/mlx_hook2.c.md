@@ -13,6 +13,8 @@ static void	zoom_canvas(t_canvas *canvas, int button, int x, int y)
 	double	interpolation;
 
 	interpolation = 1;
+
+	// 화면
 	mouse_re = (double)x
 		/ (WIDTH / (canvas->max_re - canvas->min_re)) + canvas->min_re;
 	mouse_im = (double)y
