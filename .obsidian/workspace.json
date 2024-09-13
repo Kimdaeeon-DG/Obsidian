@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fract-ol/code/mlx_hook2.c.md",
+                "file": "fract-ol/code/canvas_utils.c.md",
                 "mode": "preview",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fract-ol/code/mlx_hook2.c.md",
+                "file": "fract-ol/code/canvas_utils.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fract-ol/code/mlx_hook2.c.md",
+                "file": "fract-ol/code/canvas_utils.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fract-ol/code/mlx_hook2.c.md"
+                "file": "fract-ol/code/canvas_utils.c.md"
               }
             }
           }
@@ -259,13 +259,13 @@
   },
   "active": "7cc9e7a8d24fa6fe",
   "lastOpenFiles": [
+    "fract-ol/code/main.c.md",
     "fract-ol/code/mlx_utils.c.md",
+    "fract-ol/code/mlx_hook2.c.md",
     "fract-ol/code/utils.c.md",
     "fract-ol/code/color_utils.c.md",
     "fract-ol/code/draw_fractal.c.md",
-    "fract-ol/code/main.c.md",
     "fract-ol/code/mlx_hook.c.md",
-    "fract-ol/code/mlx_hook2.c.md",
     "fract-ol/en.subject (1).pdf",
     "minitalk/minitalk 평가표 번역.pdf",
     "Fract'ol.pdf",
