@@ -107,11 +107,9 @@
             "id": "7cc9e7a8d24fa6fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "fract-ol/code/draw_fractal.c.md",
-                "mode": "source",
-                "source": false
+                "file": "fract-ol/en.subject (1).pdf"
               }
             }
           },
@@ -194,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fract-ol/code/draw_fractal.c.md",
+                "file": "fract-ol/en.subject (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fract-ol/code/draw_fractal.c.md",
+                "file": "fract-ol/en.subject (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fract-ol/code/draw_fractal.c.md"
+                "file": "fract-ol/en.subject (1).pdf"
               }
             }
           }
@@ -259,6 +257,8 @@
   },
   "active": "7cc9e7a8d24fa6fe",
   "lastOpenFiles": [
+    "fract-ol/Pasted image 20240910144005.png",
+    "fract-ol/code/draw_fractal.c.md",
     "fract-ol/code/mlx_hook2.c.md",
     "fract-ol/code/mlx_utils.c.md",
     "fract-ol/code/utils.c.md",
@@ -266,9 +266,7 @@
     "fract-ol/code/main.c.md",
     "fract-ol/code/color_utils.c.md",
     "fract-ol/code/canvas_utils.c.md",
-    "fract-ol/code/draw_fractal.c.md",
     "fract-ol/en.subject (1).pdf",
-    "fract-ol/Pasted image 20240910144005.png",
     "minitalk/minitalk 평가표 번역.pdf",
     "Fract'ol.pdf",
     "fract-ol/code/mlx_utils.c",
