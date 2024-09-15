@@ -20,96 +20,12 @@
             }
           },
           {
-            "id": "8ddb13f3f26b8621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "minitalk/code/client.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f2e654ec89d1619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fract-ol/code/color_utils.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8022decce21befb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fract-ol/code/canvas_utils.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b11fd01d0a30375e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fract-ol/code/draw_fractal.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5eb5a1efec60340c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fract-ol/code/main.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0757740555ad3ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fract-ol/code/mlx_hook.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f617c174061e2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fract-ol/code/mlx_utils.c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7cc9e7a8d24fa6fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fract-ol/무제 파일.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fract-ol/무제 파일.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fract-ol/무제 파일.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fract-ol/무제 파일.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -259,9 +175,10 @@
   },
   "active": "7cc9e7a8d24fa6fe",
   "lastOpenFiles": [
+    "fract-ol/무제 파일.md",
+    "무제 파일.md",
     "fract-ol/en.subject (1).pdf",
     "fract-ol/Pasted image 20240910144005.png",
-    "fract-ol/무제 파일.md",
     "fract-ol/code/mlx_utils.c.md",
     "fract-ol/code/mlx_hook2.c.md",
     "fract-ol/code/main.c.md",
