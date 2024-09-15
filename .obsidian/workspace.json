@@ -28,33 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "425ad056246b11df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4e47ffadae5420f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "학회장/공지사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "학회장/공지사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "학회장/공지사항.md"
               }
             }
           }
@@ -183,7 +159,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b4e47ffadae5420f",
+  "active": "83949f64e59635c1",
   "lastOpenFiles": [
     "python 문법.md",
     "conflict-files-obsidian-git.md",
