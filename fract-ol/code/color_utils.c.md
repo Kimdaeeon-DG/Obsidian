@@ -1,34 +1,44 @@
 ```C
-#include "fractol.h"
-
-int	exit_canvas(t_canvas *canvas)
+uint32_t	rgb2hex(int r, int g, int b)
 {
-	mlx_destroy_window(canvas->mlx, canvas->win);
-	exit(0);
+	uint32_t	color;
+
+	color = 0;
+	color |= b;
+	color |= g << 8;
+	color |= r << 16;
+	return (color);
 }
 
-void	initialize_canvas(t_canvas *canvas)
+/*
+ * h: Hue.  [0-360]
+ * s: Saturation(Chroma) [0-1]
+ * v: Value(Brightness) [0-1]
+ */
+uint32_t	hsv2hex(double h, double s, double v)
 {
-	canvas->mlx = mlx_init();
-	if (!canvas->mlx)
-		exit(1);
-	canvas->win = mlx_new_window(canvas->mlx, WIDTH, HEIGHT, "fractol");
-	if (!canvas->win)
-		exit(1);
-	canvas->img.img = mlx_new_image(canvas->mlx,
-			WIDTH, HEIGHT);
-	if (!canvas->img.img)
-		exit(1);
-	canvas->img.addr = mlx_get_data_addr(canvas->img.img,
-			&canvas->img.bits_per_pixel,
-			&canvas->img.line_length, &canvas->img.endian);
-	canvas->max_re = 2;
-	canvas->max_im = 2;
-	canvas->min_re = -2;
-	canvas->min_im = -2;
-	canvas->max_iter = DEFAULT_MAX_ITER;
-	canvas->c_re = DEFAULT_JULIA_C_RE;
-	canvas->c_im = DEFAULT_JULIA_C_IM;
-	canvas->is_pressed_shift = false;
+	double	c;
+	double	x;
+	double	m;
+
+	c = v * s;
+	x = c * (1 - abs_double(((int)h / 60 % 2) - 1));
+	m = v - c;
+	if (s == 0)
+		return (rgb2hex((v + m) * 255, (v + m) * 255, (v + m) * 255));
+	if (h >= 300)
+		return (rgb2hex((c + m) * 255, (0 + m) * 255, (x + m) * 255));
+	else if (h >= 240)
+		return (rgb2hex((x + m) * 255, (0 + m) * 255, (c + m) * 255));
+	else if (h >= 180)
+		return (rgb2hex((0 + m) * 255, (x + m) * 255, (c + m) * 255));
+	else if (h >= 120)
+		return (rgb2hex((0 + m) * 255, (c + m) * 255, (x + m) * 255));
+	else if (h >= 60)
+		return (rgb2hex((x + m) * 255, (c + m) * 255, (0 + m) * 255));
+	else if (h >= 0)
+		return (rgb2hex((c + m) * 255, (x + m) * 255, (0 + m) * 255));
+	else
+		return (rgb2hex((0 + m) * 255, (0 + m) * 255, (0 + m) * 255));
 }
 ```
