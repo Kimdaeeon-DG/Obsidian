@@ -1,7 +1,8 @@
 ```C
 #include "fractol.h"
 
-static double	interpolate(double start, double end, double interpolation)
+static double	interpolate(double start, double end, double interpolation) // 마우스 중심으로 확대, 축소를 시키기 위함.
+// interpolation만큼 보간함.
 {
 	return (start + ((end - start) * interpolation));
 }

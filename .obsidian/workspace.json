@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b135a496043ec9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -183,11 +195,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2e8701842b17cb3e",
+  "active": "b135a496043ec9e2",
   "lastOpenFiles": [
-    "python 문법.md",
-    "conflict-files-obsidian-git.md",
     "무제 파일.md",
+    "conflict-files-obsidian-git.md",
+    "python 문법.md",
     "fract-ol/무제 파일.md",
     "fract-ol/en.subject (1).pdf",
     "fract-ol/Pasted image 20240910144005.png",
