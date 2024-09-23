@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학부교육실태조사.md",
+                "file": "학회장/학부교육실태조사.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학부교육실태조사.md",
+                "file": "학회장/학부교육실태조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학부교육실태조사.md",
+                "file": "학회장/학부교육실태조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학부교육실태조사.md"
+                "file": "학회장/학부교육실태조사.md"
               }
             }
           }
@@ -199,8 +199,12 @@
   },
   "active": "adee7fe833225717",
   "lastOpenFiles": [
+    "학회장/학회장.md",
+    "학회장/공지사항.md",
+    "학회장/학부교육실태조사.md",
+    "학회장/모니터링단.md",
+    "학회장/축제 주막.md",
     "코딩테스트/큰 수의 법칙.md",
-    "학부교육실태조사.md",
     "코딩테스트/python 문법.md",
     "출근 시간 기록.md",
     "메모리 누수확인.md",
@@ -211,7 +215,6 @@
     "conflict-files-obsidian-git.md",
     "fract-ol/en.subject (1).pdf",
     "fract-ol/Pasted image 20240910144005.png",
-    "학회장/공지사항.md",
     "fractol.h",
     "fract-ol/code/mlx_utils.c.md",
     "fract-ol/code/utils.c.md",
@@ -230,10 +233,7 @@
     "born2beroot/Born2beroot 정리.md",
     "옵시디언 기본/옵시디언 플러그인.md",
     "옵시디언 기본/옵시디언 적응기.md",
-    "옵시디언 기본/옵시디언.md",
-    "학회장/축제 주막.md",
     "Push_swap/Push_swap 평가표.pdf",
-    "Push_swap/Push_swap구조.md",
     "학회장/모니터링단 스크린샷",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.13.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.12.40.png",
