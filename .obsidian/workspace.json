@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "adee7fe833225717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학부교육실태조사.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3b51c0f0c5d4a710",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "코딩테스트/큰 수의 법칙.md",
+                "file": "학부교육실태조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "코딩테스트/큰 수의 법칙.md",
+                "file": "학부교육실태조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "코딩테스트/큰 수의 법칙.md"
+                "file": "학부교육실태조사.md"
               }
             }
           }
@@ -185,10 +197,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e9d27678c2a76e6b",
+  "active": "adee7fe833225717",
   "lastOpenFiles": [
-    "코딩테스트/python 문법.md",
     "코딩테스트/큰 수의 법칙.md",
+    "학부교육실태조사.md",
+    "코딩테스트/python 문법.md",
     "출근 시간 기록.md",
     "메모리 누수확인.md",
     "문화적 다양성 학습정리 2주차.md",
@@ -221,7 +234,6 @@
     "학회장/축제 주막.md",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/Push_swap구조.md",
-    "학회장/학회장.md",
     "학회장/모니터링단 스크린샷",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.13.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.12.40.png",
