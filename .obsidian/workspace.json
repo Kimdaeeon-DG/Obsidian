@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문화적 다양성 학습정리 2주차.md",
+                "file": "학회장/학부교육실태조사.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문화적 다양성 학습정리 2주차.md",
+                "file": "학회장/학부교육실태조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문화적 다양성 학습정리 2주차.md",
+                "file": "학회장/학부교육실태조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문화적 다양성 학습정리 2주차.md"
+                "file": "학회장/학부교육실태조사.md"
               }
             }
           }
@@ -199,12 +199,12 @@
   },
   "active": "adee7fe833225717",
   "lastOpenFiles": [
+    "학회장/학회장.md",
+    "학회장/공지사항.md",
     "출근 시간 기록.md",
     "문화적 다양성 학습정리 2주차.md",
     "메모리 누수확인.md",
     "학회장/학부교육실태조사.md",
-    "학회장/학회장.md",
-    "학회장/공지사항.md",
     "학회장/모니터링단.md",
     "학회장/축제 주막.md",
     "코딩테스트/큰 수의 법칙.md",
