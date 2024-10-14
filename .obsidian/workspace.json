@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학회장/차기 학회장 준비서류.md",
-                "mode": "preview",
+                "file": "학회장/학회장.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학회장/차기 학회장 준비서류.md",
+                "file": "학회장/학회장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학회장/차기 학회장 준비서류.md",
+                "file": "학회장/학회장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학회장/차기 학회장 준비서류.md"
+                "file": "학회장/학회장.md"
               }
             }
           }
@@ -211,14 +211,15 @@
   },
   "active": "d5e47e50d600bc32",
   "lastOpenFiles": [
+    "학회장/학부교육실태조사.md",
+    "무제 파일.md",
+    "문화적 다양성 학습정리 2주차.md",
     "출근 시간 기록.md",
+    "학회장/차기 학회장 준비서류.md",
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/Push_swap구조.md",
-    "학회장/차기 학회장 준비서류.md",
     "메모리 누수확인.md",
-    "문화적 다양성 학습정리 2주차.md",
-    "학회장/학부교육실태조사.md",
     "학회장/학회장.md",
     "학회장/공지사항.md",
     "학회장/모니터링단.md",
@@ -245,7 +246,6 @@
     "Push_swap/Push_swap 기본 명령어.md",
     "문화적다양성.md",
     "rush01/rush01.pdf",
-    "시험웹사이트/사이트 구성.md",
     "학회장/모니터링단 스크린샷",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.13.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.12.40.png",
