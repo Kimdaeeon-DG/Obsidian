@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "ea0411a931bcfdeb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
             "id": "91e48b36b32cf1a9",
             "type": "leaf",
             "state": {
@@ -118,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "학회장/공지사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +188,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일의 백링크"
+              "title": "공지사항의 백링크"
             }
           },
           {
@@ -209,12 +197,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "학회장/공지사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "무제 파일의 나가는 링크"
+              "title": "공지사항의 나가는 링크"
             }
           },
           {
@@ -236,10 +224,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "학회장/공지사항.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "공지사항 개요"
             }
           }
         ]
@@ -261,7 +249,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91e48b36b32cf1a9",
+  "active": "d5e47e50d600bc32",
   "lastOpenFiles": [
     "무제 파일.md",
     "학회장/학회장.md",
