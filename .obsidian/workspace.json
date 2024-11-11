@@ -67,14 +67,12 @@
             "id": "d5e47e50d600bc32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "minitalk/minitalk 개념 정리.md",
-                "mode": "source",
-                "source": false
+                "file": "minitalk/en.subject ko.pdf"
               },
-              "icon": "lucide-file",
-              "title": "minitalk 개념 정리"
+              "icon": "lucide-file-text",
+              "title": "en.subject ko"
             }
           },
           {
@@ -251,6 +249,8 @@
   },
   "active": "d5e47e50d600bc32",
   "lastOpenFiles": [
+    "minitalk/minitalk 개념 정리.md",
+    "minitalk/minitalk 평가표 번역.pdf",
     "메모리 누수확인.md",
     "학회장/공지사항.md",
     "무제 파일 1.md",
@@ -281,10 +281,8 @@
     "fract-ol/code/mlx_hook.c.md",
     "fract-ol/code/draw_fractal.c.md",
     "fract-ol/code/color_utils.c.md",
-    "fract-ol/code/canvas_utils.c.md",
     "fract-ol/code",
     "fract-ol",
-    "Push_swap/Push_swap 기본 명령어.md",
     "rush01/rush01.pdf",
     "학회장/모니터링단 스크린샷",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.13.44.png",
@@ -294,7 +292,6 @@
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.44.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.28.png",
     "학회장/모니터링단 스크린샷/스크린샷 2024-08-31 오후 3.11.03.png",
-    "학회장",
     "born2beroot/가상머신 구조.png"
   ]
 }
