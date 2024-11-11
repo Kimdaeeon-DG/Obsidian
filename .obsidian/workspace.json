@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학회장/공지사항.md",
+                "file": "minitalk/minitalk 개념 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "공지사항"
+              "title": "minitalk 개념 정리"
             }
           },
           {
@@ -249,8 +249,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b7290802418aa587",
+  "active": "d5e47e50d600bc32",
   "lastOpenFiles": [
+    "메모리 누수확인.md",
     "학회장/공지사항.md",
     "무제 파일 1.md",
     "무제 파일.md",
@@ -262,7 +263,6 @@
     "Push_swap/push_swap 설계 단계.md",
     "Push_swap/Push_swap 평가표.pdf",
     "Push_swap/Push_swap구조.md",
-    "메모리 누수확인.md",
     "학회장/모니터링단.md",
     "학회장/축제 주막.md",
     "코딩테스트/큰 수의 법칙.md",
