@@ -67,12 +67,14 @@
             "id": "d5e47e50d600bc32",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "minitalk/en.subject ko.pdf"
+                "file": "학회장/학회장.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "en.subject ko"
+              "icon": "lucide-file",
+              "title": "학회장"
             }
           },
           {
@@ -160,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "606f4770ecae4623",
@@ -250,6 +251,7 @@
   },
   "active": "d5e47e50d600bc32",
   "lastOpenFiles": [
+    "minitalk/en.subject ko.pdf",
     "minitalk/minitalk 개념 정리.md",
     "minitalk/minitalk 평가표 번역.pdf",
     "메모리 누수확인.md",
