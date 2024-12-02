@@ -78,6 +78,30 @@
             }
           },
           {
+            "id": "6702431e15e54a73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
+            "id": "d985a5d54136e806",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "91e48b36b32cf1a9",
             "type": "leaf",
             "state": {
@@ -106,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -249,7 +273,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d5e47e50d600bc32",
+  "active": "d985a5d54136e806",
   "lastOpenFiles": [
     "minitalk/en.subject ko.pdf",
     "minitalk/minitalk 개념 정리.md",
